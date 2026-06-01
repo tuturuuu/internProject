@@ -3,6 +3,7 @@ import os
 import random
 from functools import lru_cache
 from pathlib import Path
+import time
 
 from fastapi import HTTPException
 from dotenv import load_dotenv
@@ -100,6 +101,7 @@ def call_openai_json(prompt, schema_name, schema):
         raise HTTPException(status_code=500, detail="OPENAI_API_KEY is not set")
 
     client = OpenAI(api_key=api_key)
+    start_time = time.perf_counter()
 
     try:
         response = client.chat.completions.create(
@@ -118,14 +120,16 @@ def call_openai_json(prompt, schema_name, schema):
     except Exception as error:
         raise HTTPException(status_code=500, detail=f"OpenAI API error: {error}") from error
 
+    api_latency_seconds = time.perf_counter() - start_time
+
     try:
         content = response.choices[0].message.content
-        return json.loads(content)
+        return json.loads(content), api_latency_seconds
     except (AttributeError, IndexError, json.JSONDecodeError) as error:
         raise HTTPException(status_code=500, detail="OpenAI returned an invalid JSON payload") from error
 
 
-def score_businesses_with_llm(history, candidate_businesses):
+def score_businesses_with_llm(history, candidate_businesses, return_metrics=False):
     user_summary = summarize_user(history)
     user_history_names = build_history_payload(history)
     candidates_payload = build_candidates_payload(candidate_businesses)
@@ -186,7 +190,7 @@ def score_businesses_with_llm(history, candidate_businesses):
         "additionalProperties": False,
     }
 
-    result = call_openai_json(
+    result, api_latency_seconds = call_openai_json(
         prompt=prompt,
         schema_name="llm_recommendation_scores",
         schema=schema,
@@ -194,6 +198,12 @@ def score_businesses_with_llm(history, candidate_businesses):
 
     recommendations = result.get("recommendations", [])
     recommendations.sort(key=lambda item: item["score"], reverse=True)
+
+    if return_metrics:
+        return {
+            "recommendations": recommendations,
+            "openai_latency_seconds": api_latency_seconds,
+        }
 
     return recommendations
 

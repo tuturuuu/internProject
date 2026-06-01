@@ -2,6 +2,7 @@ import argparse
 import json
 import math
 import random
+import time
 from pathlib import Path
 import sys
 
@@ -65,7 +66,10 @@ def ndcg_at_k(y_true, y_score, k):
 
 def evaluate_ranker(users, business_by_id, labels_by_pair, scorer, sample_size, seed):
     ndcg3_scores = []
+    ndcg5_scores = []
     ndcg10_scores = []
+    latency_scores = []
+    openai_latency_scores = []
     per_user_rows = []
 
     for index, user_row in enumerate(users):
@@ -77,7 +81,17 @@ def evaluate_ranker(users, business_by_id, labels_by_pair, scorer, sample_size, 
             seed=seed + index,
         )
 
-        scored_candidates = scorer(user_row["history"], candidates)
+        start_time = time.perf_counter()
+        scored_result = scorer(user_row["history"], candidates)
+        latency_seconds = time.perf_counter() - start_time
+
+        if isinstance(scored_result, dict):
+            scored_candidates = scored_result["recommendations"]
+            openai_latency_seconds = scored_result.get("openai_latency_seconds")
+        else:
+            scored_candidates = scored_result
+            openai_latency_seconds = None
+
         score_by_restaurant_id = {
             item["restaurant_id"]: float(item["score"])
             for item in scored_candidates
@@ -93,22 +107,37 @@ def evaluate_ranker(users, business_by_id, labels_by_pair, scorer, sample_size, 
         ]
 
         ndcg3 = ndcg_at_k(y_true, y_score, k=3)
+        ndcg5 = ndcg_at_k(y_true, y_score, k=5)
         ndcg10 = ndcg_at_k(y_true, y_score, k=min(10, len(y_true)))
 
         ndcg3_scores.append(ndcg3)
+        ndcg5_scores.append(ndcg5)
         ndcg10_scores.append(ndcg10)
+        latency_scores.append(latency_seconds)
+        if openai_latency_seconds is not None:
+            openai_latency_scores.append(openai_latency_seconds)
         per_user_rows.append(
             {
                 "user_id": user_row["user_id"],
                 "ndcg@3": ndcg3,
+                "ndcg@5": ndcg5,
                 "ndcg@10": ndcg10,
                 "sampled": len(candidates),
+                "latency_seconds": latency_seconds,
+                "openai_latency_seconds": openai_latency_seconds,
             }
         )
 
     return {
         "ndcg@3": sum(ndcg3_scores) / max(1, len(ndcg3_scores)),
+        "ndcg@5": sum(ndcg5_scores) / max(1, len(ndcg5_scores)),
         "ndcg@10": sum(ndcg10_scores) / max(1, len(ndcg10_scores)),
+        "avg_latency_seconds": sum(latency_scores) / max(1, len(latency_scores)),
+        "avg_openai_latency_seconds": (
+            sum(openai_latency_scores) / max(1, len(openai_latency_scores))
+            if openai_latency_scores
+            else 0.0
+        ),
         "users": len(users),
         "per_user_rows": per_user_rows,
     }
@@ -157,7 +186,11 @@ def main():
         users=users,
         business_by_id=business_by_id,
         labels_by_pair=labels_by_pair,
-        scorer=score_businesses_with_llm,
+        scorer=lambda history, candidates: score_businesses_with_llm(
+            history,
+            candidates,
+            return_metrics=True,
+        ),
         sample_size=args.sample_size,
         seed=args.seed,
     )
@@ -166,16 +199,21 @@ def main():
         {
             "ranker": "xgboost",
             "ndcg@3": f"{xgb_result['ndcg@3']:.4f}",
+            "ndcg@5": f"{xgb_result['ndcg@5']:.4f}",
             "ndcg@10": f"{xgb_result['ndcg@10']:.4f}",
             "users": xgb_result["users"],
             "sample_size": args.sample_size,
+            "latency_ms": f"{xgb_result['avg_latency_seconds'] * 1000:.2f}",
         },
         {
             "ranker": "llm",
             "ndcg@3": f"{llm_result['ndcg@3']:.4f}",
+            "ndcg@5": f"{llm_result['ndcg@5']:.4f}",
             "ndcg@10": f"{llm_result['ndcg@10']:.4f}",
             "users": llm_result["users"],
             "sample_size": args.sample_size,
+            "latency_ms": f"{llm_result['avg_latency_seconds'] * 1000:.2f}",
+            "openai_latency_ms": f"{llm_result['avg_openai_latency_seconds'] * 1000:.2f}",
         },
     ]
 
@@ -187,8 +225,17 @@ def main():
                 "user_id": row["user_id"],
                 "xgb_ndcg@3": f"{row['ndcg@3']:.4f}",
                 "llm_ndcg@3": f"{llm_row['ndcg@3']:.4f}",
+                "xgb_ndcg@5": f"{row['ndcg@5']:.4f}",
+                "llm_ndcg@5": f"{llm_row['ndcg@5']:.4f}",
                 "xgb_ndcg@10": f"{row['ndcg@10']:.4f}",
                 "llm_ndcg@10": f"{llm_row['ndcg@10']:.4f}",
+                "xgb_latency_ms": f"{row['latency_seconds'] * 1000:.2f}",
+                "llm_latency_ms": f"{llm_row['latency_seconds'] * 1000:.2f}",
+                "llm_openai_latency_ms": (
+                    f"{llm_row['openai_latency_seconds'] * 1000:.2f}"
+                    if llm_row["openai_latency_seconds"] is not None
+                    else "-"
+                ),
             }
         )
 
@@ -200,15 +247,55 @@ def main():
         f"Users evaluated: {len(users)}",
         "",
         "## Summary",
-        render_table(summary_rows, ["ranker", "ndcg@3", "ndcg@10", "users", "sample_size"]),
+        render_table(
+            summary_rows,
+            [
+                "ranker",
+                "ndcg@3",
+                "ndcg@5",
+                "ndcg@10",
+                "users",
+                "sample_size",
+                "latency_ms",
+                "openai_latency_ms",
+            ],
+        ),
         "",
         "## Per User",
-        render_table(per_user_rows, ["user_id", "xgb_ndcg@3", "llm_ndcg@3", "xgb_ndcg@10", "llm_ndcg@10"]),
+        render_table(
+            per_user_rows,
+            [
+                "user_id",
+                "xgb_ndcg@3",
+                "llm_ndcg@3",
+                "xgb_ndcg@5",
+                "llm_ndcg@5",
+                "xgb_ndcg@10",
+                "llm_ndcg@10",
+                "xgb_latency_ms",
+                "llm_latency_ms",
+                "llm_openai_latency_ms",
+            ],
+        ),
         "",
     ]
     OUTPUT_PATH.write_text("\n".join(report), encoding="utf-8")
 
-    print(render_table(summary_rows, ["ranker", "ndcg@3", "ndcg@10", "users", "sample_size"]))
+    print(
+        render_table(
+            summary_rows,
+            [
+                "ranker",
+                "ndcg@3",
+                "ndcg@5",
+                "ndcg@10",
+                "users",
+                "sample_size",
+                "latency_ms",
+                "openai_latency_ms",
+            ],
+        )
+    )
     print(f"\nWrote report to {OUTPUT_PATH}")
 
 
