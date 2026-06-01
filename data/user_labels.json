@@ -1,0 +1,9382 @@
+[
+  {
+    "user_id": "u1",
+    "restaurant_id": "bnSgT1PDYudHliIh4fCHHw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "eN1NbRBlOt2gem0fhOjIPQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "9OOqLc-DNIpf4Qzne3MgKg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "Z1YH3dvDwdM6_isWY4jtrQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "gGAfy1pNZHqVEItdFG0UvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "BBNNlNmj0R2ZGmlGX99Q_g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "Qbs7XxSZ2oRTOXMR5SQdzg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "TSvvZu0UbffaW6gNV6vgTQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "6wJUKFqSc6M-3K8CGXuRZw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "bhtmNGmgjP8ASuLDge0Urg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "aCGVYpK_l3sGec7Z5cQg8Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "4-z563pZ4jNCVeJtPW8k_Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "1t8pToCHY8x8w8Do9typVg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "5fIG7laATvOIgsPPFevqXA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "se6F8VEAbJ_wzFYdf6fC-A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "H6U5WreDWXMmrkWQNrvO4g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "ZyG9Hw7Kxif471y76hm8rQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "yk66KO84ftPlTpdUnYJhdg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "p_SKmilL_7DQipc-igDPWQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "VX7SgMmSGbCgNenms2XP0A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "upVwJORmpSKTZAlzWD5FxA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "mzXxIQo5sERZn_RVJozjtA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "GkxKDPov7Af568ENp4leaQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "Pvr-qNyUDe2aEySZr3yzuA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "e90P2r1Vx_f1i9YqKOFWvw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "qw2Rq1S6p7AOmsE1_WDLIg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "MDb1Rd8iJzjJyIcrZ2NWHg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "HuECL2Vymf6WXvnE1_bvRA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "jH6ipA9xjQBh0Z4odbXppA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "3NmMVlz6sFsBJsVaPtm12A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "ls2BkLyKTKRkqzFXL1BQNw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "fs9Fp7w5wZI5L7mTiB-yzA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "S2n_06z4lGLZfdJ53XAXQQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "rGjtuEspf4oHb1bkn5ixyA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "1M2YrAhDgAYDW9i7SVF9Rg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "dDnUfl-hjvhOUsiLh4g9iQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "cjIbKTknnvvw8E7FO6SCzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "5GMz9S0NuQq_vVcRNgi1aw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "TBUc6C7K1mExMN_vSRQSEQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "PKYXtlyuM255NfQlTUX7Vg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "e0kTrMIXTAmmvsmoli45hw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "-f5A6KKUu4jZN1qptD20AA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "k8k-6ACN7-xVs6w91KJ3Xw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "7-8FfqERmzMpbzU_zuMswQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "22Zhfb78DHpyDlAAnfU1LQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "r9xEaQKPnDreCW3u3FeI1w",
+    "ordered": 1
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "7uf-z_NsagSvYTf0uflasA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "PG1L06w6sonKGsTJEbCZIQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "ti-IN8s90u2A8QYm_ZLIlg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "yarEymPVKITeqOEAz81Gug",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "nSmBctYtM77AjFlof_jmDw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "tAVOiCKEh9AsirL7mgxR6Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "WxXyx8LNI08M7sXyjvomDg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "-3Xl8nSBSjaPpftsSNyrgg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "P9tlkjioLWT0kFX19FLFeQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "HXBWNj2s4d7Pn0nwNy0ffw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "XcjEWqfD2USphxpaouIW5g",
+    "ordered": 1
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "R3ljmQ_pHq1PnRzuWpAxbg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "LgFl8hLpFHLU2B7KUWd8pA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "1v5CmcmEA9oIlQxuAWNkkA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "5wd0DEhx8ugS2KcsoaMszg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "ufEaoBFe583Ru_iSjS0CiQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "OZ3rsokaA6sFj7jq18DbfA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "pYciLAvg7ZUGoi8DDw2XGw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "NfKcglAqZ3eZMIepH1YwYw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "NWNMw4t-N-l353aNl1ON6Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "ho5ExXcnqt_PpbzeHicEqQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "MXTV7gLn1GcgBIskfIXwMg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "5aZC1FwNiaRayaz7QhAN-Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "p4MgxXcN1rmy9Y3bpW61qQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "D7xCWn-HY8xYXf3-0D-qSg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "5AZcmYkokijM_a21Jp1v8Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "bhkhJEplh42UbezFcQ8ZnA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "dk26UvdutPN2zzoPpqeZ1w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "RwF95o0ReSl_r30i9zoodg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "pt-iIf9j6ZfYiKHYpLMJsA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "d59JUaCVMZj-ZEtlWcOKZw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "EVTKyGT0FQP-L4pAvX-_-w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "at4LVgyVNAhfC6SD_f_0HA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "Kz8fV4tLl8HlPpoDYVsmCQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "tPyGueJxl-HSJrdD-7jEFA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "HvBLY3-R1KxocZapeAAvZQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "3pA709C4yRFZrjseVUWW-w",
+    "ordered": 1
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "JMxNXrZi9J0qxxsNcCjbIA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "Kv5y8tMfTxujuiLH0q9Ifw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "356dzXl7YXrWq6MrvSz23Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "1KLiPFc09NUu3GX4zebezA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "xJ9ZqxJJE6fWTm3bYUqgkA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "LH-nw2HJNAe8NVLOx6KJNA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u1",
+    "restaurant_id": "CTaS3dtVDJ5Dk3ACI7blYg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "bnSgT1PDYudHliIh4fCHHw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "eN1NbRBlOt2gem0fhOjIPQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "9OOqLc-DNIpf4Qzne3MgKg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "Z1YH3dvDwdM6_isWY4jtrQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "gGAfy1pNZHqVEItdFG0UvQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "Qbs7XxSZ2oRTOXMR5SQdzg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "TSvvZu0UbffaW6gNV6vgTQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "6wJUKFqSc6M-3K8CGXuRZw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "bhtmNGmgjP8ASuLDge0Urg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "aCGVYpK_l3sGec7Z5cQg8Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "ZhExDd48ZtOj2DFjXPgfpw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "nQeu2F4xOiKoXIp-9engUw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "4-z563pZ4jNCVeJtPW8k_Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "1t8pToCHY8x8w8Do9typVg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "5fIG7laATvOIgsPPFevqXA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "se6F8VEAbJ_wzFYdf6fC-A",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "H6U5WreDWXMmrkWQNrvO4g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "ZyG9Hw7Kxif471y76hm8rQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "yk66KO84ftPlTpdUnYJhdg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "p_SKmilL_7DQipc-igDPWQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "VX7SgMmSGbCgNenms2XP0A",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "upVwJORmpSKTZAlzWD5FxA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "l3VSR7mOiHeVKst2L2-nWA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "mzXxIQo5sERZn_RVJozjtA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "GkxKDPov7Af568ENp4leaQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "Pvr-qNyUDe2aEySZr3yzuA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "e90P2r1Vx_f1i9YqKOFWvw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "d-9vXGzbI2eZAJWKb06h3A",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "MDb1Rd8iJzjJyIcrZ2NWHg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "HuECL2Vymf6WXvnE1_bvRA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "jH6ipA9xjQBh0Z4odbXppA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "ls2BkLyKTKRkqzFXL1BQNw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "fs9Fp7w5wZI5L7mTiB-yzA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "S2n_06z4lGLZfdJ53XAXQQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "rGjtuEspf4oHb1bkn5ixyA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "1M2YrAhDgAYDW9i7SVF9Rg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "Q45BsmRjt50MMx1fBCyURg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "dDnUfl-hjvhOUsiLh4g9iQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "cjIbKTknnvvw8E7FO6SCzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "5GMz9S0NuQq_vVcRNgi1aw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "TBUc6C7K1mExMN_vSRQSEQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "PKYXtlyuM255NfQlTUX7Vg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "IjF6swxGAObtg1kR5swLBg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "e0kTrMIXTAmmvsmoli45hw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "7-8FfqERmzMpbzU_zuMswQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "22Zhfb78DHpyDlAAnfU1LQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "r9xEaQKPnDreCW3u3FeI1w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "7uf-z_NsagSvYTf0uflasA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "PG1L06w6sonKGsTJEbCZIQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "ti-IN8s90u2A8QYm_ZLIlg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "yarEymPVKITeqOEAz81Gug",
+    "ordered": 1
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "nSmBctYtM77AjFlof_jmDw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "tAVOiCKEh9AsirL7mgxR6Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "WgtCjhibLNXN7yNXzhY7mg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "WxXyx8LNI08M7sXyjvomDg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "-3Xl8nSBSjaPpftsSNyrgg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "VWHjjypYPfznN_tRIPfTvQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "P9tlkjioLWT0kFX19FLFeQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "HXBWNj2s4d7Pn0nwNy0ffw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "XcjEWqfD2USphxpaouIW5g",
+    "ordered": 1
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "LgFl8hLpFHLU2B7KUWd8pA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "1v5CmcmEA9oIlQxuAWNkkA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "5wd0DEhx8ugS2KcsoaMszg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "aCa9L-NipZIZlo6wIwlkzw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "ufEaoBFe583Ru_iSjS0CiQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "OZ3rsokaA6sFj7jq18DbfA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "pYciLAvg7ZUGoi8DDw2XGw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "NfKcglAqZ3eZMIepH1YwYw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "NWNMw4t-N-l353aNl1ON6Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "ho5ExXcnqt_PpbzeHicEqQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "MXTV7gLn1GcgBIskfIXwMg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "5aZC1FwNiaRayaz7QhAN-Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "p4MgxXcN1rmy9Y3bpW61qQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "D7xCWn-HY8xYXf3-0D-qSg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "5AZcmYkokijM_a21Jp1v8Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "bhkhJEplh42UbezFcQ8ZnA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "dk26UvdutPN2zzoPpqeZ1w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "RwF95o0ReSl_r30i9zoodg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "pt-iIf9j6ZfYiKHYpLMJsA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "d59JUaCVMZj-ZEtlWcOKZw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "EVTKyGT0FQP-L4pAvX-_-w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "Kz8fV4tLl8HlPpoDYVsmCQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "tPyGueJxl-HSJrdD-7jEFA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "HvBLY3-R1KxocZapeAAvZQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "3pA709C4yRFZrjseVUWW-w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "JMxNXrZi9J0qxxsNcCjbIA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "Kv5y8tMfTxujuiLH0q9Ifw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "356dzXl7YXrWq6MrvSz23Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "xJ9ZqxJJE6fWTm3bYUqgkA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "LH-nw2HJNAe8NVLOx6KJNA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u2",
+    "restaurant_id": "CTaS3dtVDJ5Dk3ACI7blYg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "bnSgT1PDYudHliIh4fCHHw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "eN1NbRBlOt2gem0fhOjIPQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "9OOqLc-DNIpf4Qzne3MgKg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "Z1YH3dvDwdM6_isWY4jtrQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "gGAfy1pNZHqVEItdFG0UvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "BBNNlNmj0R2ZGmlGX99Q_g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "Qbs7XxSZ2oRTOXMR5SQdzg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "TSvvZu0UbffaW6gNV6vgTQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "6wJUKFqSc6M-3K8CGXuRZw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "bhtmNGmgjP8ASuLDge0Urg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "aCGVYpK_l3sGec7Z5cQg8Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "nQeu2F4xOiKoXIp-9engUw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "4-z563pZ4jNCVeJtPW8k_Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "5fIG7laATvOIgsPPFevqXA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "se6F8VEAbJ_wzFYdf6fC-A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "H6U5WreDWXMmrkWQNrvO4g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "ZyG9Hw7Kxif471y76hm8rQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "yk66KO84ftPlTpdUnYJhdg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "p_SKmilL_7DQipc-igDPWQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "VX7SgMmSGbCgNenms2XP0A",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "upVwJORmpSKTZAlzWD5FxA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "l3VSR7mOiHeVKst2L2-nWA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "mzXxIQo5sERZn_RVJozjtA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "GkxKDPov7Af568ENp4leaQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "Pvr-qNyUDe2aEySZr3yzuA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "e90P2r1Vx_f1i9YqKOFWvw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "d-9vXGzbI2eZAJWKb06h3A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "qw2Rq1S6p7AOmsE1_WDLIg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "MDb1Rd8iJzjJyIcrZ2NWHg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "HuECL2Vymf6WXvnE1_bvRA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "jH6ipA9xjQBh0Z4odbXppA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "3NmMVlz6sFsBJsVaPtm12A",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "ls2BkLyKTKRkqzFXL1BQNw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "fs9Fp7w5wZI5L7mTiB-yzA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "S2n_06z4lGLZfdJ53XAXQQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "Lj8TpcNKo_CqqJ34qE9xog",
+    "ordered": 1
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "rGjtuEspf4oHb1bkn5ixyA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "Q45BsmRjt50MMx1fBCyURg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "dDnUfl-hjvhOUsiLh4g9iQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "cjIbKTknnvvw8E7FO6SCzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "5GMz9S0NuQq_vVcRNgi1aw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "PKYXtlyuM255NfQlTUX7Vg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "IjF6swxGAObtg1kR5swLBg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "e0kTrMIXTAmmvsmoli45hw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "k8k-6ACN7-xVs6w91KJ3Xw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "7-8FfqERmzMpbzU_zuMswQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "22Zhfb78DHpyDlAAnfU1LQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "r9xEaQKPnDreCW3u3FeI1w",
+    "ordered": 1
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "7uf-z_NsagSvYTf0uflasA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "PG1L06w6sonKGsTJEbCZIQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "ti-IN8s90u2A8QYm_ZLIlg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "yarEymPVKITeqOEAz81Gug",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "nSmBctYtM77AjFlof_jmDw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "tAVOiCKEh9AsirL7mgxR6Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "WgtCjhibLNXN7yNXzhY7mg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "WxXyx8LNI08M7sXyjvomDg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "-3Xl8nSBSjaPpftsSNyrgg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "VWHjjypYPfznN_tRIPfTvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "P9tlkjioLWT0kFX19FLFeQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "HXBWNj2s4d7Pn0nwNy0ffw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "XcjEWqfD2USphxpaouIW5g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "R3ljmQ_pHq1PnRzuWpAxbg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "LgFl8hLpFHLU2B7KUWd8pA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "1v5CmcmEA9oIlQxuAWNkkA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "5wd0DEhx8ugS2KcsoaMszg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "aCa9L-NipZIZlo6wIwlkzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "ufEaoBFe583Ru_iSjS0CiQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "NfKcglAqZ3eZMIepH1YwYw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "NWNMw4t-N-l353aNl1ON6Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "ho5ExXcnqt_PpbzeHicEqQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "MXTV7gLn1GcgBIskfIXwMg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "5aZC1FwNiaRayaz7QhAN-Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "p4MgxXcN1rmy9Y3bpW61qQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "D7xCWn-HY8xYXf3-0D-qSg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "5AZcmYkokijM_a21Jp1v8Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "bhkhJEplh42UbezFcQ8ZnA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "dk26UvdutPN2zzoPpqeZ1w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "RwF95o0ReSl_r30i9zoodg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "pt-iIf9j6ZfYiKHYpLMJsA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "d59JUaCVMZj-ZEtlWcOKZw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "EVTKyGT0FQP-L4pAvX-_-w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "at4LVgyVNAhfC6SD_f_0HA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "Kz8fV4tLl8HlPpoDYVsmCQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "HvBLY3-R1KxocZapeAAvZQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "JMxNXrZi9J0qxxsNcCjbIA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "Kv5y8tMfTxujuiLH0q9Ifw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "356dzXl7YXrWq6MrvSz23Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "xJ9ZqxJJE6fWTm3bYUqgkA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "LH-nw2HJNAe8NVLOx6KJNA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u3",
+    "restaurant_id": "CTaS3dtVDJ5Dk3ACI7blYg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "bnSgT1PDYudHliIh4fCHHw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "eN1NbRBlOt2gem0fhOjIPQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "9OOqLc-DNIpf4Qzne3MgKg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "Z1YH3dvDwdM6_isWY4jtrQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "gGAfy1pNZHqVEItdFG0UvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "BBNNlNmj0R2ZGmlGX99Q_g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "Qbs7XxSZ2oRTOXMR5SQdzg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "TSvvZu0UbffaW6gNV6vgTQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "6wJUKFqSc6M-3K8CGXuRZw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "bhtmNGmgjP8ASuLDge0Urg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "aCGVYpK_l3sGec7Z5cQg8Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "ZhExDd48ZtOj2DFjXPgfpw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "nQeu2F4xOiKoXIp-9engUw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "4-z563pZ4jNCVeJtPW8k_Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "1t8pToCHY8x8w8Do9typVg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "5fIG7laATvOIgsPPFevqXA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "se6F8VEAbJ_wzFYdf6fC-A",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "H6U5WreDWXMmrkWQNrvO4g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "ZyG9Hw7Kxif471y76hm8rQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "yk66KO84ftPlTpdUnYJhdg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "p_SKmilL_7DQipc-igDPWQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "VX7SgMmSGbCgNenms2XP0A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "upVwJORmpSKTZAlzWD5FxA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "l3VSR7mOiHeVKst2L2-nWA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "mzXxIQo5sERZn_RVJozjtA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "GkxKDPov7Af568ENp4leaQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "Pvr-qNyUDe2aEySZr3yzuA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "e90P2r1Vx_f1i9YqKOFWvw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "d-9vXGzbI2eZAJWKb06h3A",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "qw2Rq1S6p7AOmsE1_WDLIg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "MDb1Rd8iJzjJyIcrZ2NWHg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "HuECL2Vymf6WXvnE1_bvRA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "jH6ipA9xjQBh0Z4odbXppA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "3NmMVlz6sFsBJsVaPtm12A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "ls2BkLyKTKRkqzFXL1BQNw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "fs9Fp7w5wZI5L7mTiB-yzA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "S2n_06z4lGLZfdJ53XAXQQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "Lj8TpcNKo_CqqJ34qE9xog",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "rGjtuEspf4oHb1bkn5ixyA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "1M2YrAhDgAYDW9i7SVF9Rg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "Q45BsmRjt50MMx1fBCyURg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "dDnUfl-hjvhOUsiLh4g9iQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "cjIbKTknnvvw8E7FO6SCzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "5GMz9S0NuQq_vVcRNgi1aw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "TBUc6C7K1mExMN_vSRQSEQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "PKYXtlyuM255NfQlTUX7Vg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "IjF6swxGAObtg1kR5swLBg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "e0kTrMIXTAmmvsmoli45hw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "-f5A6KKUu4jZN1qptD20AA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "k8k-6ACN7-xVs6w91KJ3Xw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "7-8FfqERmzMpbzU_zuMswQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "22Zhfb78DHpyDlAAnfU1LQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "r9xEaQKPnDreCW3u3FeI1w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "7uf-z_NsagSvYTf0uflasA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "PG1L06w6sonKGsTJEbCZIQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "ti-IN8s90u2A8QYm_ZLIlg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "yarEymPVKITeqOEAz81Gug",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "nSmBctYtM77AjFlof_jmDw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "tAVOiCKEh9AsirL7mgxR6Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "WgtCjhibLNXN7yNXzhY7mg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "VWHjjypYPfznN_tRIPfTvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "P9tlkjioLWT0kFX19FLFeQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "HXBWNj2s4d7Pn0nwNy0ffw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "XcjEWqfD2USphxpaouIW5g",
+    "ordered": 1
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "R3ljmQ_pHq1PnRzuWpAxbg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "LgFl8hLpFHLU2B7KUWd8pA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "1v5CmcmEA9oIlQxuAWNkkA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "5wd0DEhx8ugS2KcsoaMszg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "aCa9L-NipZIZlo6wIwlkzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "ufEaoBFe583Ru_iSjS0CiQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "OZ3rsokaA6sFj7jq18DbfA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "pYciLAvg7ZUGoi8DDw2XGw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "NfKcglAqZ3eZMIepH1YwYw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "NWNMw4t-N-l353aNl1ON6Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "ho5ExXcnqt_PpbzeHicEqQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "MXTV7gLn1GcgBIskfIXwMg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "5aZC1FwNiaRayaz7QhAN-Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "p4MgxXcN1rmy9Y3bpW61qQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "D7xCWn-HY8xYXf3-0D-qSg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "5AZcmYkokijM_a21Jp1v8Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "bhkhJEplh42UbezFcQ8ZnA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "dk26UvdutPN2zzoPpqeZ1w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "RwF95o0ReSl_r30i9zoodg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "pt-iIf9j6ZfYiKHYpLMJsA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "d59JUaCVMZj-ZEtlWcOKZw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "EVTKyGT0FQP-L4pAvX-_-w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "at4LVgyVNAhfC6SD_f_0HA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "tPyGueJxl-HSJrdD-7jEFA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "HvBLY3-R1KxocZapeAAvZQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "3pA709C4yRFZrjseVUWW-w",
+    "ordered": 1
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "JMxNXrZi9J0qxxsNcCjbIA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "Kv5y8tMfTxujuiLH0q9Ifw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "356dzXl7YXrWq6MrvSz23Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "1KLiPFc09NUu3GX4zebezA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "xJ9ZqxJJE6fWTm3bYUqgkA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "LH-nw2HJNAe8NVLOx6KJNA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u4",
+    "restaurant_id": "CTaS3dtVDJ5Dk3ACI7blYg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "bnSgT1PDYudHliIh4fCHHw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "eN1NbRBlOt2gem0fhOjIPQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "9OOqLc-DNIpf4Qzne3MgKg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "gGAfy1pNZHqVEItdFG0UvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "BBNNlNmj0R2ZGmlGX99Q_g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "Qbs7XxSZ2oRTOXMR5SQdzg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "TSvvZu0UbffaW6gNV6vgTQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "6wJUKFqSc6M-3K8CGXuRZw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "bhtmNGmgjP8ASuLDge0Urg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "aCGVYpK_l3sGec7Z5cQg8Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "ZhExDd48ZtOj2DFjXPgfpw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "nQeu2F4xOiKoXIp-9engUw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "4-z563pZ4jNCVeJtPW8k_Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "1t8pToCHY8x8w8Do9typVg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "5fIG7laATvOIgsPPFevqXA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "se6F8VEAbJ_wzFYdf6fC-A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "H6U5WreDWXMmrkWQNrvO4g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "ZyG9Hw7Kxif471y76hm8rQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "yk66KO84ftPlTpdUnYJhdg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "p_SKmilL_7DQipc-igDPWQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "VX7SgMmSGbCgNenms2XP0A",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "upVwJORmpSKTZAlzWD5FxA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "l3VSR7mOiHeVKst2L2-nWA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "mzXxIQo5sERZn_RVJozjtA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "GkxKDPov7Af568ENp4leaQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "Pvr-qNyUDe2aEySZr3yzuA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "e90P2r1Vx_f1i9YqKOFWvw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "d-9vXGzbI2eZAJWKb06h3A",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "qw2Rq1S6p7AOmsE1_WDLIg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "MDb1Rd8iJzjJyIcrZ2NWHg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "HuECL2Vymf6WXvnE1_bvRA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "jH6ipA9xjQBh0Z4odbXppA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "3NmMVlz6sFsBJsVaPtm12A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "ls2BkLyKTKRkqzFXL1BQNw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "fs9Fp7w5wZI5L7mTiB-yzA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "S2n_06z4lGLZfdJ53XAXQQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "Lj8TpcNKo_CqqJ34qE9xog",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "rGjtuEspf4oHb1bkn5ixyA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "1M2YrAhDgAYDW9i7SVF9Rg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "Q45BsmRjt50MMx1fBCyURg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "dDnUfl-hjvhOUsiLh4g9iQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "cjIbKTknnvvw8E7FO6SCzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "5GMz9S0NuQq_vVcRNgi1aw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "TBUc6C7K1mExMN_vSRQSEQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "PKYXtlyuM255NfQlTUX7Vg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "IjF6swxGAObtg1kR5swLBg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "e0kTrMIXTAmmvsmoli45hw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "-f5A6KKUu4jZN1qptD20AA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "k8k-6ACN7-xVs6w91KJ3Xw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "7-8FfqERmzMpbzU_zuMswQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "22Zhfb78DHpyDlAAnfU1LQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "r9xEaQKPnDreCW3u3FeI1w",
+    "ordered": 1
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "7uf-z_NsagSvYTf0uflasA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "PG1L06w6sonKGsTJEbCZIQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "ti-IN8s90u2A8QYm_ZLIlg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "yarEymPVKITeqOEAz81Gug",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "nSmBctYtM77AjFlof_jmDw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "tAVOiCKEh9AsirL7mgxR6Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "WgtCjhibLNXN7yNXzhY7mg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "WxXyx8LNI08M7sXyjvomDg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "-3Xl8nSBSjaPpftsSNyrgg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "VWHjjypYPfznN_tRIPfTvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "P9tlkjioLWT0kFX19FLFeQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "HXBWNj2s4d7Pn0nwNy0ffw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "XcjEWqfD2USphxpaouIW5g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "R3ljmQ_pHq1PnRzuWpAxbg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "LgFl8hLpFHLU2B7KUWd8pA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "1v5CmcmEA9oIlQxuAWNkkA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "5wd0DEhx8ugS2KcsoaMszg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "aCa9L-NipZIZlo6wIwlkzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "ufEaoBFe583Ru_iSjS0CiQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "OZ3rsokaA6sFj7jq18DbfA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "pYciLAvg7ZUGoi8DDw2XGw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "NfKcglAqZ3eZMIepH1YwYw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "NWNMw4t-N-l353aNl1ON6Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "ho5ExXcnqt_PpbzeHicEqQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "MXTV7gLn1GcgBIskfIXwMg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "5aZC1FwNiaRayaz7QhAN-Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "p4MgxXcN1rmy9Y3bpW61qQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "D7xCWn-HY8xYXf3-0D-qSg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "5AZcmYkokijM_a21Jp1v8Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "bhkhJEplh42UbezFcQ8ZnA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "dk26UvdutPN2zzoPpqeZ1w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "RwF95o0ReSl_r30i9zoodg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "pt-iIf9j6ZfYiKHYpLMJsA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "d59JUaCVMZj-ZEtlWcOKZw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "EVTKyGT0FQP-L4pAvX-_-w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "at4LVgyVNAhfC6SD_f_0HA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "Kz8fV4tLl8HlPpoDYVsmCQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "tPyGueJxl-HSJrdD-7jEFA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "HvBLY3-R1KxocZapeAAvZQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "3pA709C4yRFZrjseVUWW-w",
+    "ordered": 1
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "JMxNXrZi9J0qxxsNcCjbIA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "Kv5y8tMfTxujuiLH0q9Ifw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "356dzXl7YXrWq6MrvSz23Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "1KLiPFc09NUu3GX4zebezA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "xJ9ZqxJJE6fWTm3bYUqgkA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "LH-nw2HJNAe8NVLOx6KJNA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u5",
+    "restaurant_id": "CTaS3dtVDJ5Dk3ACI7blYg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "bnSgT1PDYudHliIh4fCHHw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "eN1NbRBlOt2gem0fhOjIPQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "9OOqLc-DNIpf4Qzne3MgKg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "Z1YH3dvDwdM6_isWY4jtrQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "gGAfy1pNZHqVEItdFG0UvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "BBNNlNmj0R2ZGmlGX99Q_g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "Qbs7XxSZ2oRTOXMR5SQdzg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "TSvvZu0UbffaW6gNV6vgTQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "6wJUKFqSc6M-3K8CGXuRZw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "bhtmNGmgjP8ASuLDge0Urg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "aCGVYpK_l3sGec7Z5cQg8Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "ZhExDd48ZtOj2DFjXPgfpw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "nQeu2F4xOiKoXIp-9engUw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "4-z563pZ4jNCVeJtPW8k_Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "1t8pToCHY8x8w8Do9typVg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "5fIG7laATvOIgsPPFevqXA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "se6F8VEAbJ_wzFYdf6fC-A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "H6U5WreDWXMmrkWQNrvO4g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "ZyG9Hw7Kxif471y76hm8rQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "yk66KO84ftPlTpdUnYJhdg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "p_SKmilL_7DQipc-igDPWQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "VX7SgMmSGbCgNenms2XP0A",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "upVwJORmpSKTZAlzWD5FxA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "l3VSR7mOiHeVKst2L2-nWA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "mzXxIQo5sERZn_RVJozjtA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "GkxKDPov7Af568ENp4leaQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "Pvr-qNyUDe2aEySZr3yzuA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "e90P2r1Vx_f1i9YqKOFWvw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "qw2Rq1S6p7AOmsE1_WDLIg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "MDb1Rd8iJzjJyIcrZ2NWHg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "HuECL2Vymf6WXvnE1_bvRA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "jH6ipA9xjQBh0Z4odbXppA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "3NmMVlz6sFsBJsVaPtm12A",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "ls2BkLyKTKRkqzFXL1BQNw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "fs9Fp7w5wZI5L7mTiB-yzA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "S2n_06z4lGLZfdJ53XAXQQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "Lj8TpcNKo_CqqJ34qE9xog",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "rGjtuEspf4oHb1bkn5ixyA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "1M2YrAhDgAYDW9i7SVF9Rg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "Q45BsmRjt50MMx1fBCyURg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "dDnUfl-hjvhOUsiLh4g9iQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "cjIbKTknnvvw8E7FO6SCzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "5GMz9S0NuQq_vVcRNgi1aw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "PKYXtlyuM255NfQlTUX7Vg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "IjF6swxGAObtg1kR5swLBg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "e0kTrMIXTAmmvsmoli45hw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "-f5A6KKUu4jZN1qptD20AA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "k8k-6ACN7-xVs6w91KJ3Xw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "7-8FfqERmzMpbzU_zuMswQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "22Zhfb78DHpyDlAAnfU1LQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "r9xEaQKPnDreCW3u3FeI1w",
+    "ordered": 1
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "7uf-z_NsagSvYTf0uflasA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "PG1L06w6sonKGsTJEbCZIQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "yarEymPVKITeqOEAz81Gug",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "nSmBctYtM77AjFlof_jmDw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "tAVOiCKEh9AsirL7mgxR6Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "WxXyx8LNI08M7sXyjvomDg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "-3Xl8nSBSjaPpftsSNyrgg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "VWHjjypYPfznN_tRIPfTvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "P9tlkjioLWT0kFX19FLFeQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "HXBWNj2s4d7Pn0nwNy0ffw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "XcjEWqfD2USphxpaouIW5g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "R3ljmQ_pHq1PnRzuWpAxbg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "LgFl8hLpFHLU2B7KUWd8pA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "1v5CmcmEA9oIlQxuAWNkkA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "5wd0DEhx8ugS2KcsoaMszg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "aCa9L-NipZIZlo6wIwlkzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "pYciLAvg7ZUGoi8DDw2XGw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "NfKcglAqZ3eZMIepH1YwYw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "NWNMw4t-N-l353aNl1ON6Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "MXTV7gLn1GcgBIskfIXwMg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "5aZC1FwNiaRayaz7QhAN-Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "D7xCWn-HY8xYXf3-0D-qSg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "5AZcmYkokijM_a21Jp1v8Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "bhkhJEplh42UbezFcQ8ZnA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "dk26UvdutPN2zzoPpqeZ1w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "RwF95o0ReSl_r30i9zoodg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "pt-iIf9j6ZfYiKHYpLMJsA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "d59JUaCVMZj-ZEtlWcOKZw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "at4LVgyVNAhfC6SD_f_0HA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "Kz8fV4tLl8HlPpoDYVsmCQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "tPyGueJxl-HSJrdD-7jEFA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "HvBLY3-R1KxocZapeAAvZQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "3pA709C4yRFZrjseVUWW-w",
+    "ordered": 1
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "JMxNXrZi9J0qxxsNcCjbIA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "356dzXl7YXrWq6MrvSz23Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "1KLiPFc09NUu3GX4zebezA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "xJ9ZqxJJE6fWTm3bYUqgkA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "LH-nw2HJNAe8NVLOx6KJNA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u6",
+    "restaurant_id": "CTaS3dtVDJ5Dk3ACI7blYg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "bnSgT1PDYudHliIh4fCHHw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "eN1NbRBlOt2gem0fhOjIPQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "9OOqLc-DNIpf4Qzne3MgKg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "Z1YH3dvDwdM6_isWY4jtrQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "gGAfy1pNZHqVEItdFG0UvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "BBNNlNmj0R2ZGmlGX99Q_g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "Qbs7XxSZ2oRTOXMR5SQdzg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "TSvvZu0UbffaW6gNV6vgTQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "bhtmNGmgjP8ASuLDge0Urg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "aCGVYpK_l3sGec7Z5cQg8Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "ZhExDd48ZtOj2DFjXPgfpw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "nQeu2F4xOiKoXIp-9engUw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "4-z563pZ4jNCVeJtPW8k_Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "1t8pToCHY8x8w8Do9typVg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "5fIG7laATvOIgsPPFevqXA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "se6F8VEAbJ_wzFYdf6fC-A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "H6U5WreDWXMmrkWQNrvO4g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "ZyG9Hw7Kxif471y76hm8rQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "yk66KO84ftPlTpdUnYJhdg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "p_SKmilL_7DQipc-igDPWQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "VX7SgMmSGbCgNenms2XP0A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "upVwJORmpSKTZAlzWD5FxA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "l3VSR7mOiHeVKst2L2-nWA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "mzXxIQo5sERZn_RVJozjtA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "GkxKDPov7Af568ENp4leaQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "Pvr-qNyUDe2aEySZr3yzuA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "e90P2r1Vx_f1i9YqKOFWvw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "d-9vXGzbI2eZAJWKb06h3A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "qw2Rq1S6p7AOmsE1_WDLIg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "MDb1Rd8iJzjJyIcrZ2NWHg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "jH6ipA9xjQBh0Z4odbXppA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "3NmMVlz6sFsBJsVaPtm12A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "ls2BkLyKTKRkqzFXL1BQNw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "fs9Fp7w5wZI5L7mTiB-yzA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "S2n_06z4lGLZfdJ53XAXQQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "Lj8TpcNKo_CqqJ34qE9xog",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "rGjtuEspf4oHb1bkn5ixyA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "1M2YrAhDgAYDW9i7SVF9Rg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "Q45BsmRjt50MMx1fBCyURg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "dDnUfl-hjvhOUsiLh4g9iQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "cjIbKTknnvvw8E7FO6SCzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "5GMz9S0NuQq_vVcRNgi1aw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "TBUc6C7K1mExMN_vSRQSEQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "PKYXtlyuM255NfQlTUX7Vg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "IjF6swxGAObtg1kR5swLBg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "e0kTrMIXTAmmvsmoli45hw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "-f5A6KKUu4jZN1qptD20AA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "k8k-6ACN7-xVs6w91KJ3Xw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "22Zhfb78DHpyDlAAnfU1LQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "r9xEaQKPnDreCW3u3FeI1w",
+    "ordered": 1
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "7uf-z_NsagSvYTf0uflasA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "PG1L06w6sonKGsTJEbCZIQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "ti-IN8s90u2A8QYm_ZLIlg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "yarEymPVKITeqOEAz81Gug",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "nSmBctYtM77AjFlof_jmDw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "tAVOiCKEh9AsirL7mgxR6Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "WgtCjhibLNXN7yNXzhY7mg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "WxXyx8LNI08M7sXyjvomDg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "-3Xl8nSBSjaPpftsSNyrgg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "VWHjjypYPfznN_tRIPfTvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "P9tlkjioLWT0kFX19FLFeQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "HXBWNj2s4d7Pn0nwNy0ffw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "XcjEWqfD2USphxpaouIW5g",
+    "ordered": 1
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "R3ljmQ_pHq1PnRzuWpAxbg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "LgFl8hLpFHLU2B7KUWd8pA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "1v5CmcmEA9oIlQxuAWNkkA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "5wd0DEhx8ugS2KcsoaMszg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "ufEaoBFe583Ru_iSjS0CiQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "OZ3rsokaA6sFj7jq18DbfA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "pYciLAvg7ZUGoi8DDw2XGw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "NWNMw4t-N-l353aNl1ON6Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "ho5ExXcnqt_PpbzeHicEqQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "MXTV7gLn1GcgBIskfIXwMg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "5aZC1FwNiaRayaz7QhAN-Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "p4MgxXcN1rmy9Y3bpW61qQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "D7xCWn-HY8xYXf3-0D-qSg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "5AZcmYkokijM_a21Jp1v8Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "bhkhJEplh42UbezFcQ8ZnA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "dk26UvdutPN2zzoPpqeZ1w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "RwF95o0ReSl_r30i9zoodg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "pt-iIf9j6ZfYiKHYpLMJsA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "EVTKyGT0FQP-L4pAvX-_-w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "at4LVgyVNAhfC6SD_f_0HA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "Kz8fV4tLl8HlPpoDYVsmCQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "tPyGueJxl-HSJrdD-7jEFA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "HvBLY3-R1KxocZapeAAvZQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "3pA709C4yRFZrjseVUWW-w",
+    "ordered": 1
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "JMxNXrZi9J0qxxsNcCjbIA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "356dzXl7YXrWq6MrvSz23Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "1KLiPFc09NUu3GX4zebezA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "xJ9ZqxJJE6fWTm3bYUqgkA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "LH-nw2HJNAe8NVLOx6KJNA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u7",
+    "restaurant_id": "CTaS3dtVDJ5Dk3ACI7blYg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "bnSgT1PDYudHliIh4fCHHw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "eN1NbRBlOt2gem0fhOjIPQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "9OOqLc-DNIpf4Qzne3MgKg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "gGAfy1pNZHqVEItdFG0UvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "BBNNlNmj0R2ZGmlGX99Q_g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "Qbs7XxSZ2oRTOXMR5SQdzg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "TSvvZu0UbffaW6gNV6vgTQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "6wJUKFqSc6M-3K8CGXuRZw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "bhtmNGmgjP8ASuLDge0Urg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "aCGVYpK_l3sGec7Z5cQg8Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "ZhExDd48ZtOj2DFjXPgfpw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "nQeu2F4xOiKoXIp-9engUw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "4-z563pZ4jNCVeJtPW8k_Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "1t8pToCHY8x8w8Do9typVg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "5fIG7laATvOIgsPPFevqXA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "se6F8VEAbJ_wzFYdf6fC-A",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "H6U5WreDWXMmrkWQNrvO4g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "ZyG9Hw7Kxif471y76hm8rQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "yk66KO84ftPlTpdUnYJhdg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "p_SKmilL_7DQipc-igDPWQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "VX7SgMmSGbCgNenms2XP0A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "upVwJORmpSKTZAlzWD5FxA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "l3VSR7mOiHeVKst2L2-nWA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "mzXxIQo5sERZn_RVJozjtA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "GkxKDPov7Af568ENp4leaQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "Pvr-qNyUDe2aEySZr3yzuA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "e90P2r1Vx_f1i9YqKOFWvw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "d-9vXGzbI2eZAJWKb06h3A",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "qw2Rq1S6p7AOmsE1_WDLIg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "MDb1Rd8iJzjJyIcrZ2NWHg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "HuECL2Vymf6WXvnE1_bvRA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "jH6ipA9xjQBh0Z4odbXppA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "3NmMVlz6sFsBJsVaPtm12A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "ls2BkLyKTKRkqzFXL1BQNw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "fs9Fp7w5wZI5L7mTiB-yzA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "S2n_06z4lGLZfdJ53XAXQQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "Lj8TpcNKo_CqqJ34qE9xog",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "rGjtuEspf4oHb1bkn5ixyA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "1M2YrAhDgAYDW9i7SVF9Rg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "Q45BsmRjt50MMx1fBCyURg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "dDnUfl-hjvhOUsiLh4g9iQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "cjIbKTknnvvw8E7FO6SCzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "5GMz9S0NuQq_vVcRNgi1aw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "TBUc6C7K1mExMN_vSRQSEQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "PKYXtlyuM255NfQlTUX7Vg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "IjF6swxGAObtg1kR5swLBg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "e0kTrMIXTAmmvsmoli45hw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "-f5A6KKUu4jZN1qptD20AA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "k8k-6ACN7-xVs6w91KJ3Xw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "7-8FfqERmzMpbzU_zuMswQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "22Zhfb78DHpyDlAAnfU1LQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "r9xEaQKPnDreCW3u3FeI1w",
+    "ordered": 1
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "7uf-z_NsagSvYTf0uflasA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "PG1L06w6sonKGsTJEbCZIQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "ti-IN8s90u2A8QYm_ZLIlg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "yarEymPVKITeqOEAz81Gug",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "nSmBctYtM77AjFlof_jmDw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "tAVOiCKEh9AsirL7mgxR6Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "WgtCjhibLNXN7yNXzhY7mg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "VWHjjypYPfznN_tRIPfTvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "P9tlkjioLWT0kFX19FLFeQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "HXBWNj2s4d7Pn0nwNy0ffw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "XcjEWqfD2USphxpaouIW5g",
+    "ordered": 1
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "R3ljmQ_pHq1PnRzuWpAxbg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "LgFl8hLpFHLU2B7KUWd8pA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "1v5CmcmEA9oIlQxuAWNkkA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "5wd0DEhx8ugS2KcsoaMszg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "aCa9L-NipZIZlo6wIwlkzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "ufEaoBFe583Ru_iSjS0CiQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "OZ3rsokaA6sFj7jq18DbfA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "pYciLAvg7ZUGoi8DDw2XGw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "NfKcglAqZ3eZMIepH1YwYw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "NWNMw4t-N-l353aNl1ON6Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "ho5ExXcnqt_PpbzeHicEqQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "MXTV7gLn1GcgBIskfIXwMg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "5aZC1FwNiaRayaz7QhAN-Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "p4MgxXcN1rmy9Y3bpW61qQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "D7xCWn-HY8xYXf3-0D-qSg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "5AZcmYkokijM_a21Jp1v8Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "bhkhJEplh42UbezFcQ8ZnA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "dk26UvdutPN2zzoPpqeZ1w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "RwF95o0ReSl_r30i9zoodg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "pt-iIf9j6ZfYiKHYpLMJsA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "d59JUaCVMZj-ZEtlWcOKZw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "EVTKyGT0FQP-L4pAvX-_-w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "at4LVgyVNAhfC6SD_f_0HA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "tPyGueJxl-HSJrdD-7jEFA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "3pA709C4yRFZrjseVUWW-w",
+    "ordered": 1
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "JMxNXrZi9J0qxxsNcCjbIA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "Kv5y8tMfTxujuiLH0q9Ifw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "356dzXl7YXrWq6MrvSz23Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "1KLiPFc09NUu3GX4zebezA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "xJ9ZqxJJE6fWTm3bYUqgkA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "LH-nw2HJNAe8NVLOx6KJNA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u8",
+    "restaurant_id": "CTaS3dtVDJ5Dk3ACI7blYg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "bnSgT1PDYudHliIh4fCHHw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "eN1NbRBlOt2gem0fhOjIPQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "9OOqLc-DNIpf4Qzne3MgKg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "Z1YH3dvDwdM6_isWY4jtrQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "gGAfy1pNZHqVEItdFG0UvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "BBNNlNmj0R2ZGmlGX99Q_g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "Qbs7XxSZ2oRTOXMR5SQdzg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "TSvvZu0UbffaW6gNV6vgTQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "6wJUKFqSc6M-3K8CGXuRZw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "bhtmNGmgjP8ASuLDge0Urg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "aCGVYpK_l3sGec7Z5cQg8Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "ZhExDd48ZtOj2DFjXPgfpw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "nQeu2F4xOiKoXIp-9engUw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "4-z563pZ4jNCVeJtPW8k_Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "1t8pToCHY8x8w8Do9typVg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "5fIG7laATvOIgsPPFevqXA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "se6F8VEAbJ_wzFYdf6fC-A",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "H6U5WreDWXMmrkWQNrvO4g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "ZyG9Hw7Kxif471y76hm8rQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "yk66KO84ftPlTpdUnYJhdg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "p_SKmilL_7DQipc-igDPWQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "VX7SgMmSGbCgNenms2XP0A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "upVwJORmpSKTZAlzWD5FxA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "l3VSR7mOiHeVKst2L2-nWA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "mzXxIQo5sERZn_RVJozjtA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "GkxKDPov7Af568ENp4leaQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "Pvr-qNyUDe2aEySZr3yzuA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "e90P2r1Vx_f1i9YqKOFWvw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "d-9vXGzbI2eZAJWKb06h3A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "qw2Rq1S6p7AOmsE1_WDLIg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "MDb1Rd8iJzjJyIcrZ2NWHg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "HuECL2Vymf6WXvnE1_bvRA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "jH6ipA9xjQBh0Z4odbXppA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "3NmMVlz6sFsBJsVaPtm12A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "ls2BkLyKTKRkqzFXL1BQNw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "fs9Fp7w5wZI5L7mTiB-yzA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "S2n_06z4lGLZfdJ53XAXQQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "Lj8TpcNKo_CqqJ34qE9xog",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "rGjtuEspf4oHb1bkn5ixyA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "1M2YrAhDgAYDW9i7SVF9Rg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "Q45BsmRjt50MMx1fBCyURg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "dDnUfl-hjvhOUsiLh4g9iQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "cjIbKTknnvvw8E7FO6SCzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "5GMz9S0NuQq_vVcRNgi1aw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "TBUc6C7K1mExMN_vSRQSEQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "PKYXtlyuM255NfQlTUX7Vg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "IjF6swxGAObtg1kR5swLBg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "e0kTrMIXTAmmvsmoli45hw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "-f5A6KKUu4jZN1qptD20AA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "k8k-6ACN7-xVs6w91KJ3Xw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "7-8FfqERmzMpbzU_zuMswQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "22Zhfb78DHpyDlAAnfU1LQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "r9xEaQKPnDreCW3u3FeI1w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "7uf-z_NsagSvYTf0uflasA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "PG1L06w6sonKGsTJEbCZIQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "ti-IN8s90u2A8QYm_ZLIlg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "yarEymPVKITeqOEAz81Gug",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "nSmBctYtM77AjFlof_jmDw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "tAVOiCKEh9AsirL7mgxR6Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "WgtCjhibLNXN7yNXzhY7mg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "VWHjjypYPfznN_tRIPfTvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "P9tlkjioLWT0kFX19FLFeQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "HXBWNj2s4d7Pn0nwNy0ffw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "XcjEWqfD2USphxpaouIW5g",
+    "ordered": 1
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "R3ljmQ_pHq1PnRzuWpAxbg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "LgFl8hLpFHLU2B7KUWd8pA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "1v5CmcmEA9oIlQxuAWNkkA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "5wd0DEhx8ugS2KcsoaMszg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "aCa9L-NipZIZlo6wIwlkzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "ufEaoBFe583Ru_iSjS0CiQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "OZ3rsokaA6sFj7jq18DbfA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "pYciLAvg7ZUGoi8DDw2XGw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "NfKcglAqZ3eZMIepH1YwYw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "NWNMw4t-N-l353aNl1ON6Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "ho5ExXcnqt_PpbzeHicEqQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "MXTV7gLn1GcgBIskfIXwMg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "5aZC1FwNiaRayaz7QhAN-Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "p4MgxXcN1rmy9Y3bpW61qQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "D7xCWn-HY8xYXf3-0D-qSg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "5AZcmYkokijM_a21Jp1v8Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "bhkhJEplh42UbezFcQ8ZnA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "dk26UvdutPN2zzoPpqeZ1w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "RwF95o0ReSl_r30i9zoodg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "pt-iIf9j6ZfYiKHYpLMJsA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "d59JUaCVMZj-ZEtlWcOKZw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "EVTKyGT0FQP-L4pAvX-_-w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "at4LVgyVNAhfC6SD_f_0HA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "tPyGueJxl-HSJrdD-7jEFA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "3pA709C4yRFZrjseVUWW-w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "JMxNXrZi9J0qxxsNcCjbIA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "Kv5y8tMfTxujuiLH0q9Ifw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "356dzXl7YXrWq6MrvSz23Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "1KLiPFc09NUu3GX4zebezA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "xJ9ZqxJJE6fWTm3bYUqgkA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "LH-nw2HJNAe8NVLOx6KJNA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u9",
+    "restaurant_id": "CTaS3dtVDJ5Dk3ACI7blYg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "bnSgT1PDYudHliIh4fCHHw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "eN1NbRBlOt2gem0fhOjIPQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "9OOqLc-DNIpf4Qzne3MgKg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "Z1YH3dvDwdM6_isWY4jtrQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "gGAfy1pNZHqVEItdFG0UvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "BBNNlNmj0R2ZGmlGX99Q_g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "Qbs7XxSZ2oRTOXMR5SQdzg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "TSvvZu0UbffaW6gNV6vgTQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "6wJUKFqSc6M-3K8CGXuRZw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "bhtmNGmgjP8ASuLDge0Urg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "aCGVYpK_l3sGec7Z5cQg8Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "ZhExDd48ZtOj2DFjXPgfpw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "nQeu2F4xOiKoXIp-9engUw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "4-z563pZ4jNCVeJtPW8k_Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "1t8pToCHY8x8w8Do9typVg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "5fIG7laATvOIgsPPFevqXA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "se6F8VEAbJ_wzFYdf6fC-A",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "H6U5WreDWXMmrkWQNrvO4g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "ZyG9Hw7Kxif471y76hm8rQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "yk66KO84ftPlTpdUnYJhdg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "p_SKmilL_7DQipc-igDPWQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "VX7SgMmSGbCgNenms2XP0A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "upVwJORmpSKTZAlzWD5FxA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "l3VSR7mOiHeVKst2L2-nWA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "mzXxIQo5sERZn_RVJozjtA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "GkxKDPov7Af568ENp4leaQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "Pvr-qNyUDe2aEySZr3yzuA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "e90P2r1Vx_f1i9YqKOFWvw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "d-9vXGzbI2eZAJWKb06h3A",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "qw2Rq1S6p7AOmsE1_WDLIg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "MDb1Rd8iJzjJyIcrZ2NWHg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "HuECL2Vymf6WXvnE1_bvRA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "jH6ipA9xjQBh0Z4odbXppA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "3NmMVlz6sFsBJsVaPtm12A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "ls2BkLyKTKRkqzFXL1BQNw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "fs9Fp7w5wZI5L7mTiB-yzA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "S2n_06z4lGLZfdJ53XAXQQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "Lj8TpcNKo_CqqJ34qE9xog",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "rGjtuEspf4oHb1bkn5ixyA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "1M2YrAhDgAYDW9i7SVF9Rg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "Q45BsmRjt50MMx1fBCyURg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "dDnUfl-hjvhOUsiLh4g9iQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "cjIbKTknnvvw8E7FO6SCzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "5GMz9S0NuQq_vVcRNgi1aw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "TBUc6C7K1mExMN_vSRQSEQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "PKYXtlyuM255NfQlTUX7Vg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "IjF6swxGAObtg1kR5swLBg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "e0kTrMIXTAmmvsmoli45hw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "-f5A6KKUu4jZN1qptD20AA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "k8k-6ACN7-xVs6w91KJ3Xw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "7-8FfqERmzMpbzU_zuMswQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "22Zhfb78DHpyDlAAnfU1LQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "r9xEaQKPnDreCW3u3FeI1w",
+    "ordered": 1
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "7uf-z_NsagSvYTf0uflasA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "PG1L06w6sonKGsTJEbCZIQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "ti-IN8s90u2A8QYm_ZLIlg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "yarEymPVKITeqOEAz81Gug",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "nSmBctYtM77AjFlof_jmDw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "tAVOiCKEh9AsirL7mgxR6Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "WgtCjhibLNXN7yNXzhY7mg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "VWHjjypYPfznN_tRIPfTvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "P9tlkjioLWT0kFX19FLFeQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "HXBWNj2s4d7Pn0nwNy0ffw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "XcjEWqfD2USphxpaouIW5g",
+    "ordered": 1
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "R3ljmQ_pHq1PnRzuWpAxbg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "LgFl8hLpFHLU2B7KUWd8pA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "1v5CmcmEA9oIlQxuAWNkkA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "5wd0DEhx8ugS2KcsoaMszg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "aCa9L-NipZIZlo6wIwlkzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "ufEaoBFe583Ru_iSjS0CiQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "OZ3rsokaA6sFj7jq18DbfA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "pYciLAvg7ZUGoi8DDw2XGw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "NfKcglAqZ3eZMIepH1YwYw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "NWNMw4t-N-l353aNl1ON6Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "ho5ExXcnqt_PpbzeHicEqQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "MXTV7gLn1GcgBIskfIXwMg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "5aZC1FwNiaRayaz7QhAN-Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "p4MgxXcN1rmy9Y3bpW61qQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "D7xCWn-HY8xYXf3-0D-qSg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "5AZcmYkokijM_a21Jp1v8Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "bhkhJEplh42UbezFcQ8ZnA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "dk26UvdutPN2zzoPpqeZ1w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "RwF95o0ReSl_r30i9zoodg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "pt-iIf9j6ZfYiKHYpLMJsA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "d59JUaCVMZj-ZEtlWcOKZw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "EVTKyGT0FQP-L4pAvX-_-w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "at4LVgyVNAhfC6SD_f_0HA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "tPyGueJxl-HSJrdD-7jEFA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "HvBLY3-R1KxocZapeAAvZQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "3pA709C4yRFZrjseVUWW-w",
+    "ordered": 1
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "JMxNXrZi9J0qxxsNcCjbIA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "Kv5y8tMfTxujuiLH0q9Ifw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "356dzXl7YXrWq6MrvSz23Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "1KLiPFc09NUu3GX4zebezA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "xJ9ZqxJJE6fWTm3bYUqgkA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "LH-nw2HJNAe8NVLOx6KJNA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u10",
+    "restaurant_id": "CTaS3dtVDJ5Dk3ACI7blYg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "bnSgT1PDYudHliIh4fCHHw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "eN1NbRBlOt2gem0fhOjIPQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "9OOqLc-DNIpf4Qzne3MgKg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "Z1YH3dvDwdM6_isWY4jtrQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "gGAfy1pNZHqVEItdFG0UvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "BBNNlNmj0R2ZGmlGX99Q_g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "Qbs7XxSZ2oRTOXMR5SQdzg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "TSvvZu0UbffaW6gNV6vgTQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "6wJUKFqSc6M-3K8CGXuRZw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "bhtmNGmgjP8ASuLDge0Urg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "aCGVYpK_l3sGec7Z5cQg8Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "ZhExDd48ZtOj2DFjXPgfpw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "nQeu2F4xOiKoXIp-9engUw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "4-z563pZ4jNCVeJtPW8k_Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "1t8pToCHY8x8w8Do9typVg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "5fIG7laATvOIgsPPFevqXA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "se6F8VEAbJ_wzFYdf6fC-A",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "H6U5WreDWXMmrkWQNrvO4g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "ZyG9Hw7Kxif471y76hm8rQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "yk66KO84ftPlTpdUnYJhdg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "p_SKmilL_7DQipc-igDPWQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "VX7SgMmSGbCgNenms2XP0A",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "upVwJORmpSKTZAlzWD5FxA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "l3VSR7mOiHeVKst2L2-nWA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "GkxKDPov7Af568ENp4leaQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "Pvr-qNyUDe2aEySZr3yzuA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "e90P2r1Vx_f1i9YqKOFWvw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "qw2Rq1S6p7AOmsE1_WDLIg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "MDb1Rd8iJzjJyIcrZ2NWHg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "HuECL2Vymf6WXvnE1_bvRA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "jH6ipA9xjQBh0Z4odbXppA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "3NmMVlz6sFsBJsVaPtm12A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "ls2BkLyKTKRkqzFXL1BQNw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "fs9Fp7w5wZI5L7mTiB-yzA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "S2n_06z4lGLZfdJ53XAXQQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "Lj8TpcNKo_CqqJ34qE9xog",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "rGjtuEspf4oHb1bkn5ixyA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "1M2YrAhDgAYDW9i7SVF9Rg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "Q45BsmRjt50MMx1fBCyURg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "dDnUfl-hjvhOUsiLh4g9iQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "cjIbKTknnvvw8E7FO6SCzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "5GMz9S0NuQq_vVcRNgi1aw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "IjF6swxGAObtg1kR5swLBg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "e0kTrMIXTAmmvsmoli45hw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "-f5A6KKUu4jZN1qptD20AA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "k8k-6ACN7-xVs6w91KJ3Xw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "7-8FfqERmzMpbzU_zuMswQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "22Zhfb78DHpyDlAAnfU1LQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "r9xEaQKPnDreCW3u3FeI1w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "7uf-z_NsagSvYTf0uflasA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "PG1L06w6sonKGsTJEbCZIQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "ti-IN8s90u2A8QYm_ZLIlg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "yarEymPVKITeqOEAz81Gug",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "nSmBctYtM77AjFlof_jmDw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "tAVOiCKEh9AsirL7mgxR6Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "WxXyx8LNI08M7sXyjvomDg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "-3Xl8nSBSjaPpftsSNyrgg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "VWHjjypYPfznN_tRIPfTvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "HXBWNj2s4d7Pn0nwNy0ffw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "R3ljmQ_pHq1PnRzuWpAxbg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "1v5CmcmEA9oIlQxuAWNkkA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "5wd0DEhx8ugS2KcsoaMszg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "aCa9L-NipZIZlo6wIwlkzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "ufEaoBFe583Ru_iSjS0CiQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "pYciLAvg7ZUGoi8DDw2XGw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "NfKcglAqZ3eZMIepH1YwYw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "NWNMw4t-N-l353aNl1ON6Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "ho5ExXcnqt_PpbzeHicEqQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "MXTV7gLn1GcgBIskfIXwMg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "p4MgxXcN1rmy9Y3bpW61qQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "D7xCWn-HY8xYXf3-0D-qSg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "5AZcmYkokijM_a21Jp1v8Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "bhkhJEplh42UbezFcQ8ZnA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "dk26UvdutPN2zzoPpqeZ1w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "RwF95o0ReSl_r30i9zoodg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "pt-iIf9j6ZfYiKHYpLMJsA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "d59JUaCVMZj-ZEtlWcOKZw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "EVTKyGT0FQP-L4pAvX-_-w",
+    "ordered": 1
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "at4LVgyVNAhfC6SD_f_0HA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "Kz8fV4tLl8HlPpoDYVsmCQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "tPyGueJxl-HSJrdD-7jEFA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "HvBLY3-R1KxocZapeAAvZQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "3pA709C4yRFZrjseVUWW-w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "JMxNXrZi9J0qxxsNcCjbIA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "Kv5y8tMfTxujuiLH0q9Ifw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "356dzXl7YXrWq6MrvSz23Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "1KLiPFc09NUu3GX4zebezA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "xJ9ZqxJJE6fWTm3bYUqgkA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "LH-nw2HJNAe8NVLOx6KJNA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u11",
+    "restaurant_id": "CTaS3dtVDJ5Dk3ACI7blYg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "bnSgT1PDYudHliIh4fCHHw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "eN1NbRBlOt2gem0fhOjIPQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "9OOqLc-DNIpf4Qzne3MgKg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "gGAfy1pNZHqVEItdFG0UvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "BBNNlNmj0R2ZGmlGX99Q_g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "Qbs7XxSZ2oRTOXMR5SQdzg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "TSvvZu0UbffaW6gNV6vgTQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "6wJUKFqSc6M-3K8CGXuRZw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "bhtmNGmgjP8ASuLDge0Urg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "aCGVYpK_l3sGec7Z5cQg8Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "ZhExDd48ZtOj2DFjXPgfpw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "nQeu2F4xOiKoXIp-9engUw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "4-z563pZ4jNCVeJtPW8k_Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "1t8pToCHY8x8w8Do9typVg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "5fIG7laATvOIgsPPFevqXA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "se6F8VEAbJ_wzFYdf6fC-A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "H6U5WreDWXMmrkWQNrvO4g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "ZyG9Hw7Kxif471y76hm8rQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "yk66KO84ftPlTpdUnYJhdg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "p_SKmilL_7DQipc-igDPWQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "VX7SgMmSGbCgNenms2XP0A",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "upVwJORmpSKTZAlzWD5FxA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "l3VSR7mOiHeVKst2L2-nWA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "mzXxIQo5sERZn_RVJozjtA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "GkxKDPov7Af568ENp4leaQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "Pvr-qNyUDe2aEySZr3yzuA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "e90P2r1Vx_f1i9YqKOFWvw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "d-9vXGzbI2eZAJWKb06h3A",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "qw2Rq1S6p7AOmsE1_WDLIg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "MDb1Rd8iJzjJyIcrZ2NWHg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "HuECL2Vymf6WXvnE1_bvRA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "jH6ipA9xjQBh0Z4odbXppA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "3NmMVlz6sFsBJsVaPtm12A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "ls2BkLyKTKRkqzFXL1BQNw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "fs9Fp7w5wZI5L7mTiB-yzA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "S2n_06z4lGLZfdJ53XAXQQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "Lj8TpcNKo_CqqJ34qE9xog",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "rGjtuEspf4oHb1bkn5ixyA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "1M2YrAhDgAYDW9i7SVF9Rg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "Q45BsmRjt50MMx1fBCyURg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "dDnUfl-hjvhOUsiLh4g9iQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "cjIbKTknnvvw8E7FO6SCzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "5GMz9S0NuQq_vVcRNgi1aw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "TBUc6C7K1mExMN_vSRQSEQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "PKYXtlyuM255NfQlTUX7Vg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "IjF6swxGAObtg1kR5swLBg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "e0kTrMIXTAmmvsmoli45hw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "-f5A6KKUu4jZN1qptD20AA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "k8k-6ACN7-xVs6w91KJ3Xw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "7-8FfqERmzMpbzU_zuMswQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "22Zhfb78DHpyDlAAnfU1LQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "r9xEaQKPnDreCW3u3FeI1w",
+    "ordered": 1
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "7uf-z_NsagSvYTf0uflasA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "PG1L06w6sonKGsTJEbCZIQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "ti-IN8s90u2A8QYm_ZLIlg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "yarEymPVKITeqOEAz81Gug",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "nSmBctYtM77AjFlof_jmDw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "tAVOiCKEh9AsirL7mgxR6Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "WgtCjhibLNXN7yNXzhY7mg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "WxXyx8LNI08M7sXyjvomDg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "-3Xl8nSBSjaPpftsSNyrgg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "VWHjjypYPfznN_tRIPfTvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "P9tlkjioLWT0kFX19FLFeQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "HXBWNj2s4d7Pn0nwNy0ffw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "XcjEWqfD2USphxpaouIW5g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "R3ljmQ_pHq1PnRzuWpAxbg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "LgFl8hLpFHLU2B7KUWd8pA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "1v5CmcmEA9oIlQxuAWNkkA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "5wd0DEhx8ugS2KcsoaMszg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "aCa9L-NipZIZlo6wIwlkzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "ufEaoBFe583Ru_iSjS0CiQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "OZ3rsokaA6sFj7jq18DbfA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "pYciLAvg7ZUGoi8DDw2XGw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "NfKcglAqZ3eZMIepH1YwYw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "NWNMw4t-N-l353aNl1ON6Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "ho5ExXcnqt_PpbzeHicEqQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "MXTV7gLn1GcgBIskfIXwMg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "5aZC1FwNiaRayaz7QhAN-Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "p4MgxXcN1rmy9Y3bpW61qQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "D7xCWn-HY8xYXf3-0D-qSg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "5AZcmYkokijM_a21Jp1v8Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "bhkhJEplh42UbezFcQ8ZnA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "dk26UvdutPN2zzoPpqeZ1w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "RwF95o0ReSl_r30i9zoodg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "pt-iIf9j6ZfYiKHYpLMJsA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "d59JUaCVMZj-ZEtlWcOKZw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "EVTKyGT0FQP-L4pAvX-_-w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "at4LVgyVNAhfC6SD_f_0HA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "Kz8fV4tLl8HlPpoDYVsmCQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "tPyGueJxl-HSJrdD-7jEFA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "HvBLY3-R1KxocZapeAAvZQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "3pA709C4yRFZrjseVUWW-w",
+    "ordered": 1
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "JMxNXrZi9J0qxxsNcCjbIA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "Kv5y8tMfTxujuiLH0q9Ifw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "356dzXl7YXrWq6MrvSz23Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "1KLiPFc09NUu3GX4zebezA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "xJ9ZqxJJE6fWTm3bYUqgkA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "LH-nw2HJNAe8NVLOx6KJNA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u12",
+    "restaurant_id": "CTaS3dtVDJ5Dk3ACI7blYg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "bnSgT1PDYudHliIh4fCHHw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "eN1NbRBlOt2gem0fhOjIPQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "9OOqLc-DNIpf4Qzne3MgKg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "Z1YH3dvDwdM6_isWY4jtrQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "gGAfy1pNZHqVEItdFG0UvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "BBNNlNmj0R2ZGmlGX99Q_g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "Qbs7XxSZ2oRTOXMR5SQdzg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "TSvvZu0UbffaW6gNV6vgTQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "6wJUKFqSc6M-3K8CGXuRZw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "bhtmNGmgjP8ASuLDge0Urg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "aCGVYpK_l3sGec7Z5cQg8Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "ZhExDd48ZtOj2DFjXPgfpw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "nQeu2F4xOiKoXIp-9engUw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "4-z563pZ4jNCVeJtPW8k_Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "1t8pToCHY8x8w8Do9typVg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "5fIG7laATvOIgsPPFevqXA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "se6F8VEAbJ_wzFYdf6fC-A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "H6U5WreDWXMmrkWQNrvO4g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "ZyG9Hw7Kxif471y76hm8rQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "yk66KO84ftPlTpdUnYJhdg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "p_SKmilL_7DQipc-igDPWQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "VX7SgMmSGbCgNenms2XP0A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "upVwJORmpSKTZAlzWD5FxA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "l3VSR7mOiHeVKst2L2-nWA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "mzXxIQo5sERZn_RVJozjtA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "Pvr-qNyUDe2aEySZr3yzuA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "e90P2r1Vx_f1i9YqKOFWvw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "d-9vXGzbI2eZAJWKb06h3A",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "qw2Rq1S6p7AOmsE1_WDLIg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "MDb1Rd8iJzjJyIcrZ2NWHg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "HuECL2Vymf6WXvnE1_bvRA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "jH6ipA9xjQBh0Z4odbXppA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "3NmMVlz6sFsBJsVaPtm12A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "ls2BkLyKTKRkqzFXL1BQNw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "fs9Fp7w5wZI5L7mTiB-yzA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "S2n_06z4lGLZfdJ53XAXQQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "Lj8TpcNKo_CqqJ34qE9xog",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "rGjtuEspf4oHb1bkn5ixyA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "1M2YrAhDgAYDW9i7SVF9Rg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "Q45BsmRjt50MMx1fBCyURg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "dDnUfl-hjvhOUsiLh4g9iQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "cjIbKTknnvvw8E7FO6SCzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "5GMz9S0NuQq_vVcRNgi1aw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "TBUc6C7K1mExMN_vSRQSEQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "PKYXtlyuM255NfQlTUX7Vg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "IjF6swxGAObtg1kR5swLBg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "e0kTrMIXTAmmvsmoli45hw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "-f5A6KKUu4jZN1qptD20AA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "k8k-6ACN7-xVs6w91KJ3Xw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "7-8FfqERmzMpbzU_zuMswQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "7uf-z_NsagSvYTf0uflasA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "ti-IN8s90u2A8QYm_ZLIlg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "yarEymPVKITeqOEAz81Gug",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "nSmBctYtM77AjFlof_jmDw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "WgtCjhibLNXN7yNXzhY7mg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "WxXyx8LNI08M7sXyjvomDg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "-3Xl8nSBSjaPpftsSNyrgg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "VWHjjypYPfznN_tRIPfTvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "P9tlkjioLWT0kFX19FLFeQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "HXBWNj2s4d7Pn0nwNy0ffw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "XcjEWqfD2USphxpaouIW5g",
+    "ordered": 1
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "R3ljmQ_pHq1PnRzuWpAxbg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "LgFl8hLpFHLU2B7KUWd8pA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "1v5CmcmEA9oIlQxuAWNkkA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "5wd0DEhx8ugS2KcsoaMszg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "aCa9L-NipZIZlo6wIwlkzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "ufEaoBFe583Ru_iSjS0CiQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "OZ3rsokaA6sFj7jq18DbfA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "pYciLAvg7ZUGoi8DDw2XGw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "NfKcglAqZ3eZMIepH1YwYw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "NWNMw4t-N-l353aNl1ON6Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "ho5ExXcnqt_PpbzeHicEqQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "MXTV7gLn1GcgBIskfIXwMg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "5aZC1FwNiaRayaz7QhAN-Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "p4MgxXcN1rmy9Y3bpW61qQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "D7xCWn-HY8xYXf3-0D-qSg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "5AZcmYkokijM_a21Jp1v8Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "bhkhJEplh42UbezFcQ8ZnA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "dk26UvdutPN2zzoPpqeZ1w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "RwF95o0ReSl_r30i9zoodg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "pt-iIf9j6ZfYiKHYpLMJsA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "d59JUaCVMZj-ZEtlWcOKZw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "EVTKyGT0FQP-L4pAvX-_-w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "at4LVgyVNAhfC6SD_f_0HA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "Kz8fV4tLl8HlPpoDYVsmCQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "tPyGueJxl-HSJrdD-7jEFA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "HvBLY3-R1KxocZapeAAvZQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "3pA709C4yRFZrjseVUWW-w",
+    "ordered": 1
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "JMxNXrZi9J0qxxsNcCjbIA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "356dzXl7YXrWq6MrvSz23Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "1KLiPFc09NUu3GX4zebezA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "xJ9ZqxJJE6fWTm3bYUqgkA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "LH-nw2HJNAe8NVLOx6KJNA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u13",
+    "restaurant_id": "CTaS3dtVDJ5Dk3ACI7blYg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "eN1NbRBlOt2gem0fhOjIPQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "9OOqLc-DNIpf4Qzne3MgKg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "Z1YH3dvDwdM6_isWY4jtrQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "gGAfy1pNZHqVEItdFG0UvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "BBNNlNmj0R2ZGmlGX99Q_g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "Qbs7XxSZ2oRTOXMR5SQdzg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "TSvvZu0UbffaW6gNV6vgTQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "6wJUKFqSc6M-3K8CGXuRZw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "bhtmNGmgjP8ASuLDge0Urg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "aCGVYpK_l3sGec7Z5cQg8Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "ZhExDd48ZtOj2DFjXPgfpw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "nQeu2F4xOiKoXIp-9engUw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "4-z563pZ4jNCVeJtPW8k_Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "1t8pToCHY8x8w8Do9typVg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "5fIG7laATvOIgsPPFevqXA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "se6F8VEAbJ_wzFYdf6fC-A",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "H6U5WreDWXMmrkWQNrvO4g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "ZyG9Hw7Kxif471y76hm8rQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "p_SKmilL_7DQipc-igDPWQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "VX7SgMmSGbCgNenms2XP0A",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "upVwJORmpSKTZAlzWD5FxA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "l3VSR7mOiHeVKst2L2-nWA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "mzXxIQo5sERZn_RVJozjtA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "GkxKDPov7Af568ENp4leaQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "Pvr-qNyUDe2aEySZr3yzuA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "e90P2r1Vx_f1i9YqKOFWvw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "d-9vXGzbI2eZAJWKb06h3A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "qw2Rq1S6p7AOmsE1_WDLIg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "MDb1Rd8iJzjJyIcrZ2NWHg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "HuECL2Vymf6WXvnE1_bvRA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "jH6ipA9xjQBh0Z4odbXppA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "3NmMVlz6sFsBJsVaPtm12A",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "ls2BkLyKTKRkqzFXL1BQNw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "fs9Fp7w5wZI5L7mTiB-yzA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "Lj8TpcNKo_CqqJ34qE9xog",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "rGjtuEspf4oHb1bkn5ixyA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "1M2YrAhDgAYDW9i7SVF9Rg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "Q45BsmRjt50MMx1fBCyURg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "dDnUfl-hjvhOUsiLh4g9iQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "5GMz9S0NuQq_vVcRNgi1aw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "PKYXtlyuM255NfQlTUX7Vg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "IjF6swxGAObtg1kR5swLBg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "e0kTrMIXTAmmvsmoli45hw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "k8k-6ACN7-xVs6w91KJ3Xw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "7-8FfqERmzMpbzU_zuMswQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "22Zhfb78DHpyDlAAnfU1LQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "r9xEaQKPnDreCW3u3FeI1w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "7uf-z_NsagSvYTf0uflasA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "PG1L06w6sonKGsTJEbCZIQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "ti-IN8s90u2A8QYm_ZLIlg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "yarEymPVKITeqOEAz81Gug",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "nSmBctYtM77AjFlof_jmDw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "tAVOiCKEh9AsirL7mgxR6Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "WgtCjhibLNXN7yNXzhY7mg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "WxXyx8LNI08M7sXyjvomDg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "-3Xl8nSBSjaPpftsSNyrgg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "VWHjjypYPfznN_tRIPfTvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "P9tlkjioLWT0kFX19FLFeQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "HXBWNj2s4d7Pn0nwNy0ffw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "XcjEWqfD2USphxpaouIW5g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "R3ljmQ_pHq1PnRzuWpAxbg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "1v5CmcmEA9oIlQxuAWNkkA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "5wd0DEhx8ugS2KcsoaMszg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "aCa9L-NipZIZlo6wIwlkzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "ufEaoBFe583Ru_iSjS0CiQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "OZ3rsokaA6sFj7jq18DbfA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "pYciLAvg7ZUGoi8DDw2XGw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "NfKcglAqZ3eZMIepH1YwYw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "NWNMw4t-N-l353aNl1ON6Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "ho5ExXcnqt_PpbzeHicEqQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "MXTV7gLn1GcgBIskfIXwMg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "5aZC1FwNiaRayaz7QhAN-Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "p4MgxXcN1rmy9Y3bpW61qQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "D7xCWn-HY8xYXf3-0D-qSg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "5AZcmYkokijM_a21Jp1v8Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "bhkhJEplh42UbezFcQ8ZnA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "dk26UvdutPN2zzoPpqeZ1w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "RwF95o0ReSl_r30i9zoodg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "pt-iIf9j6ZfYiKHYpLMJsA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "d59JUaCVMZj-ZEtlWcOKZw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "EVTKyGT0FQP-L4pAvX-_-w",
+    "ordered": 1
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "at4LVgyVNAhfC6SD_f_0HA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "Kz8fV4tLl8HlPpoDYVsmCQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "tPyGueJxl-HSJrdD-7jEFA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "HvBLY3-R1KxocZapeAAvZQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "3pA709C4yRFZrjseVUWW-w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "JMxNXrZi9J0qxxsNcCjbIA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "Kv5y8tMfTxujuiLH0q9Ifw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "356dzXl7YXrWq6MrvSz23Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "xJ9ZqxJJE6fWTm3bYUqgkA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "LH-nw2HJNAe8NVLOx6KJNA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u14",
+    "restaurant_id": "CTaS3dtVDJ5Dk3ACI7blYg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "bnSgT1PDYudHliIh4fCHHw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "9OOqLc-DNIpf4Qzne3MgKg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "Z1YH3dvDwdM6_isWY4jtrQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "gGAfy1pNZHqVEItdFG0UvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "BBNNlNmj0R2ZGmlGX99Q_g",
+    "ordered": 1
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "TSvvZu0UbffaW6gNV6vgTQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "6wJUKFqSc6M-3K8CGXuRZw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "bhtmNGmgjP8ASuLDge0Urg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "aCGVYpK_l3sGec7Z5cQg8Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "ZhExDd48ZtOj2DFjXPgfpw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "nQeu2F4xOiKoXIp-9engUw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "4-z563pZ4jNCVeJtPW8k_Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "1t8pToCHY8x8w8Do9typVg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "5fIG7laATvOIgsPPFevqXA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "se6F8VEAbJ_wzFYdf6fC-A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "H6U5WreDWXMmrkWQNrvO4g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "ZyG9Hw7Kxif471y76hm8rQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "yk66KO84ftPlTpdUnYJhdg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "p_SKmilL_7DQipc-igDPWQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "VX7SgMmSGbCgNenms2XP0A",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "l3VSR7mOiHeVKst2L2-nWA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "mzXxIQo5sERZn_RVJozjtA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "GkxKDPov7Af568ENp4leaQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "Pvr-qNyUDe2aEySZr3yzuA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "e90P2r1Vx_f1i9YqKOFWvw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "d-9vXGzbI2eZAJWKb06h3A",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "qw2Rq1S6p7AOmsE1_WDLIg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "MDb1Rd8iJzjJyIcrZ2NWHg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "HuECL2Vymf6WXvnE1_bvRA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "jH6ipA9xjQBh0Z4odbXppA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "3NmMVlz6sFsBJsVaPtm12A",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "ls2BkLyKTKRkqzFXL1BQNw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "S2n_06z4lGLZfdJ53XAXQQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "Lj8TpcNKo_CqqJ34qE9xog",
+    "ordered": 1
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "rGjtuEspf4oHb1bkn5ixyA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "1M2YrAhDgAYDW9i7SVF9Rg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "Q45BsmRjt50MMx1fBCyURg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "dDnUfl-hjvhOUsiLh4g9iQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "cjIbKTknnvvw8E7FO6SCzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "5GMz9S0NuQq_vVcRNgi1aw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "TBUc6C7K1mExMN_vSRQSEQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "IjF6swxGAObtg1kR5swLBg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "e0kTrMIXTAmmvsmoli45hw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "-f5A6KKUu4jZN1qptD20AA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "k8k-6ACN7-xVs6w91KJ3Xw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "7-8FfqERmzMpbzU_zuMswQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "22Zhfb78DHpyDlAAnfU1LQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "r9xEaQKPnDreCW3u3FeI1w",
+    "ordered": 1
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "7uf-z_NsagSvYTf0uflasA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "PG1L06w6sonKGsTJEbCZIQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "ti-IN8s90u2A8QYm_ZLIlg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "yarEymPVKITeqOEAz81Gug",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "nSmBctYtM77AjFlof_jmDw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "tAVOiCKEh9AsirL7mgxR6Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "WgtCjhibLNXN7yNXzhY7mg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "WxXyx8LNI08M7sXyjvomDg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "-3Xl8nSBSjaPpftsSNyrgg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "VWHjjypYPfznN_tRIPfTvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "P9tlkjioLWT0kFX19FLFeQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "HXBWNj2s4d7Pn0nwNy0ffw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "XcjEWqfD2USphxpaouIW5g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "R3ljmQ_pHq1PnRzuWpAxbg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "LgFl8hLpFHLU2B7KUWd8pA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "5wd0DEhx8ugS2KcsoaMszg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "aCa9L-NipZIZlo6wIwlkzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "ufEaoBFe583Ru_iSjS0CiQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "OZ3rsokaA6sFj7jq18DbfA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "pYciLAvg7ZUGoi8DDw2XGw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "NfKcglAqZ3eZMIepH1YwYw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "NWNMw4t-N-l353aNl1ON6Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "ho5ExXcnqt_PpbzeHicEqQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "MXTV7gLn1GcgBIskfIXwMg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "5aZC1FwNiaRayaz7QhAN-Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "p4MgxXcN1rmy9Y3bpW61qQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "D7xCWn-HY8xYXf3-0D-qSg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "5AZcmYkokijM_a21Jp1v8Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "dk26UvdutPN2zzoPpqeZ1w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "RwF95o0ReSl_r30i9zoodg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "pt-iIf9j6ZfYiKHYpLMJsA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "d59JUaCVMZj-ZEtlWcOKZw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "EVTKyGT0FQP-L4pAvX-_-w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "at4LVgyVNAhfC6SD_f_0HA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "Kz8fV4tLl8HlPpoDYVsmCQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "tPyGueJxl-HSJrdD-7jEFA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "HvBLY3-R1KxocZapeAAvZQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "3pA709C4yRFZrjseVUWW-w",
+    "ordered": 1
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "JMxNXrZi9J0qxxsNcCjbIA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "Kv5y8tMfTxujuiLH0q9Ifw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "356dzXl7YXrWq6MrvSz23Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "xJ9ZqxJJE6fWTm3bYUqgkA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "LH-nw2HJNAe8NVLOx6KJNA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u15",
+    "restaurant_id": "CTaS3dtVDJ5Dk3ACI7blYg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "bnSgT1PDYudHliIh4fCHHw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "eN1NbRBlOt2gem0fhOjIPQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "9OOqLc-DNIpf4Qzne3MgKg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "gGAfy1pNZHqVEItdFG0UvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "BBNNlNmj0R2ZGmlGX99Q_g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "Qbs7XxSZ2oRTOXMR5SQdzg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "TSvvZu0UbffaW6gNV6vgTQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "6wJUKFqSc6M-3K8CGXuRZw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "bhtmNGmgjP8ASuLDge0Urg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "aCGVYpK_l3sGec7Z5cQg8Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "ZhExDd48ZtOj2DFjXPgfpw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "nQeu2F4xOiKoXIp-9engUw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "4-z563pZ4jNCVeJtPW8k_Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "1t8pToCHY8x8w8Do9typVg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "5fIG7laATvOIgsPPFevqXA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "se6F8VEAbJ_wzFYdf6fC-A",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "H6U5WreDWXMmrkWQNrvO4g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "ZyG9Hw7Kxif471y76hm8rQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "yk66KO84ftPlTpdUnYJhdg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "p_SKmilL_7DQipc-igDPWQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "VX7SgMmSGbCgNenms2XP0A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "upVwJORmpSKTZAlzWD5FxA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "l3VSR7mOiHeVKst2L2-nWA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "mzXxIQo5sERZn_RVJozjtA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "GkxKDPov7Af568ENp4leaQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "Pvr-qNyUDe2aEySZr3yzuA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "e90P2r1Vx_f1i9YqKOFWvw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "d-9vXGzbI2eZAJWKb06h3A",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "qw2Rq1S6p7AOmsE1_WDLIg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "MDb1Rd8iJzjJyIcrZ2NWHg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "HuECL2Vymf6WXvnE1_bvRA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "jH6ipA9xjQBh0Z4odbXppA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "3NmMVlz6sFsBJsVaPtm12A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "ls2BkLyKTKRkqzFXL1BQNw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "fs9Fp7w5wZI5L7mTiB-yzA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "S2n_06z4lGLZfdJ53XAXQQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "Lj8TpcNKo_CqqJ34qE9xog",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "rGjtuEspf4oHb1bkn5ixyA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "1M2YrAhDgAYDW9i7SVF9Rg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "Q45BsmRjt50MMx1fBCyURg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "dDnUfl-hjvhOUsiLh4g9iQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "cjIbKTknnvvw8E7FO6SCzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "5GMz9S0NuQq_vVcRNgi1aw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "TBUc6C7K1mExMN_vSRQSEQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "PKYXtlyuM255NfQlTUX7Vg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "IjF6swxGAObtg1kR5swLBg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "e0kTrMIXTAmmvsmoli45hw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "-f5A6KKUu4jZN1qptD20AA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "k8k-6ACN7-xVs6w91KJ3Xw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "7-8FfqERmzMpbzU_zuMswQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "22Zhfb78DHpyDlAAnfU1LQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "r9xEaQKPnDreCW3u3FeI1w",
+    "ordered": 1
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "7uf-z_NsagSvYTf0uflasA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "PG1L06w6sonKGsTJEbCZIQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "ti-IN8s90u2A8QYm_ZLIlg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "yarEymPVKITeqOEAz81Gug",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "nSmBctYtM77AjFlof_jmDw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "tAVOiCKEh9AsirL7mgxR6Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "WgtCjhibLNXN7yNXzhY7mg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "VWHjjypYPfznN_tRIPfTvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "P9tlkjioLWT0kFX19FLFeQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "HXBWNj2s4d7Pn0nwNy0ffw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "XcjEWqfD2USphxpaouIW5g",
+    "ordered": 1
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "R3ljmQ_pHq1PnRzuWpAxbg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "LgFl8hLpFHLU2B7KUWd8pA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "1v5CmcmEA9oIlQxuAWNkkA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "5wd0DEhx8ugS2KcsoaMszg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "aCa9L-NipZIZlo6wIwlkzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "ufEaoBFe583Ru_iSjS0CiQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "OZ3rsokaA6sFj7jq18DbfA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "pYciLAvg7ZUGoi8DDw2XGw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "NfKcglAqZ3eZMIepH1YwYw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "NWNMw4t-N-l353aNl1ON6Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "ho5ExXcnqt_PpbzeHicEqQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "MXTV7gLn1GcgBIskfIXwMg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "5aZC1FwNiaRayaz7QhAN-Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "p4MgxXcN1rmy9Y3bpW61qQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "D7xCWn-HY8xYXf3-0D-qSg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "5AZcmYkokijM_a21Jp1v8Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "bhkhJEplh42UbezFcQ8ZnA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "dk26UvdutPN2zzoPpqeZ1w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "RwF95o0ReSl_r30i9zoodg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "pt-iIf9j6ZfYiKHYpLMJsA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "d59JUaCVMZj-ZEtlWcOKZw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "EVTKyGT0FQP-L4pAvX-_-w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "at4LVgyVNAhfC6SD_f_0HA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "tPyGueJxl-HSJrdD-7jEFA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "3pA709C4yRFZrjseVUWW-w",
+    "ordered": 1
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "JMxNXrZi9J0qxxsNcCjbIA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "Kv5y8tMfTxujuiLH0q9Ifw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "356dzXl7YXrWq6MrvSz23Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "1KLiPFc09NUu3GX4zebezA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "xJ9ZqxJJE6fWTm3bYUqgkA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "LH-nw2HJNAe8NVLOx6KJNA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u16",
+    "restaurant_id": "CTaS3dtVDJ5Dk3ACI7blYg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "bnSgT1PDYudHliIh4fCHHw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "eN1NbRBlOt2gem0fhOjIPQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "9OOqLc-DNIpf4Qzne3MgKg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "Z1YH3dvDwdM6_isWY4jtrQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "gGAfy1pNZHqVEItdFG0UvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "BBNNlNmj0R2ZGmlGX99Q_g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "TSvvZu0UbffaW6gNV6vgTQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "6wJUKFqSc6M-3K8CGXuRZw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "bhtmNGmgjP8ASuLDge0Urg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "aCGVYpK_l3sGec7Z5cQg8Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "ZhExDd48ZtOj2DFjXPgfpw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "nQeu2F4xOiKoXIp-9engUw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "4-z563pZ4jNCVeJtPW8k_Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "1t8pToCHY8x8w8Do9typVg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "se6F8VEAbJ_wzFYdf6fC-A",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "H6U5WreDWXMmrkWQNrvO4g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "ZyG9Hw7Kxif471y76hm8rQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "yk66KO84ftPlTpdUnYJhdg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "p_SKmilL_7DQipc-igDPWQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "VX7SgMmSGbCgNenms2XP0A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "upVwJORmpSKTZAlzWD5FxA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "mzXxIQo5sERZn_RVJozjtA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "GkxKDPov7Af568ENp4leaQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "Pvr-qNyUDe2aEySZr3yzuA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "e90P2r1Vx_f1i9YqKOFWvw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "d-9vXGzbI2eZAJWKb06h3A",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "qw2Rq1S6p7AOmsE1_WDLIg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "MDb1Rd8iJzjJyIcrZ2NWHg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "jH6ipA9xjQBh0Z4odbXppA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "3NmMVlz6sFsBJsVaPtm12A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "ls2BkLyKTKRkqzFXL1BQNw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "fs9Fp7w5wZI5L7mTiB-yzA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "S2n_06z4lGLZfdJ53XAXQQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "Lj8TpcNKo_CqqJ34qE9xog",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "rGjtuEspf4oHb1bkn5ixyA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "1M2YrAhDgAYDW9i7SVF9Rg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "Q45BsmRjt50MMx1fBCyURg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "dDnUfl-hjvhOUsiLh4g9iQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "cjIbKTknnvvw8E7FO6SCzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "5GMz9S0NuQq_vVcRNgi1aw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "TBUc6C7K1mExMN_vSRQSEQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "PKYXtlyuM255NfQlTUX7Vg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "IjF6swxGAObtg1kR5swLBg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "e0kTrMIXTAmmvsmoli45hw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "k8k-6ACN7-xVs6w91KJ3Xw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "7-8FfqERmzMpbzU_zuMswQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "22Zhfb78DHpyDlAAnfU1LQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "r9xEaQKPnDreCW3u3FeI1w",
+    "ordered": 1
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "PG1L06w6sonKGsTJEbCZIQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "yarEymPVKITeqOEAz81Gug",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "nSmBctYtM77AjFlof_jmDw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "tAVOiCKEh9AsirL7mgxR6Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "WgtCjhibLNXN7yNXzhY7mg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "WxXyx8LNI08M7sXyjvomDg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "-3Xl8nSBSjaPpftsSNyrgg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "VWHjjypYPfznN_tRIPfTvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "P9tlkjioLWT0kFX19FLFeQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "HXBWNj2s4d7Pn0nwNy0ffw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "XcjEWqfD2USphxpaouIW5g",
+    "ordered": 1
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "R3ljmQ_pHq1PnRzuWpAxbg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "LgFl8hLpFHLU2B7KUWd8pA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "1v5CmcmEA9oIlQxuAWNkkA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "5wd0DEhx8ugS2KcsoaMszg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "aCa9L-NipZIZlo6wIwlkzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "ufEaoBFe583Ru_iSjS0CiQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "OZ3rsokaA6sFj7jq18DbfA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "pYciLAvg7ZUGoi8DDw2XGw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "NfKcglAqZ3eZMIepH1YwYw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "NWNMw4t-N-l353aNl1ON6Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "ho5ExXcnqt_PpbzeHicEqQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "MXTV7gLn1GcgBIskfIXwMg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "5aZC1FwNiaRayaz7QhAN-Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "p4MgxXcN1rmy9Y3bpW61qQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "D7xCWn-HY8xYXf3-0D-qSg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "5AZcmYkokijM_a21Jp1v8Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "bhkhJEplh42UbezFcQ8ZnA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "dk26UvdutPN2zzoPpqeZ1w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "RwF95o0ReSl_r30i9zoodg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "pt-iIf9j6ZfYiKHYpLMJsA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "EVTKyGT0FQP-L4pAvX-_-w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "at4LVgyVNAhfC6SD_f_0HA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "Kz8fV4tLl8HlPpoDYVsmCQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "tPyGueJxl-HSJrdD-7jEFA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "HvBLY3-R1KxocZapeAAvZQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "3pA709C4yRFZrjseVUWW-w",
+    "ordered": 1
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "JMxNXrZi9J0qxxsNcCjbIA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "Kv5y8tMfTxujuiLH0q9Ifw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "1KLiPFc09NUu3GX4zebezA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "xJ9ZqxJJE6fWTm3bYUqgkA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "LH-nw2HJNAe8NVLOx6KJNA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u17",
+    "restaurant_id": "CTaS3dtVDJ5Dk3ACI7blYg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "bnSgT1PDYudHliIh4fCHHw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "eN1NbRBlOt2gem0fhOjIPQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "9OOqLc-DNIpf4Qzne3MgKg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "Z1YH3dvDwdM6_isWY4jtrQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "gGAfy1pNZHqVEItdFG0UvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "BBNNlNmj0R2ZGmlGX99Q_g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "Qbs7XxSZ2oRTOXMR5SQdzg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "TSvvZu0UbffaW6gNV6vgTQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "6wJUKFqSc6M-3K8CGXuRZw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "bhtmNGmgjP8ASuLDge0Urg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "aCGVYpK_l3sGec7Z5cQg8Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "ZhExDd48ZtOj2DFjXPgfpw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "nQeu2F4xOiKoXIp-9engUw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "4-z563pZ4jNCVeJtPW8k_Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "1t8pToCHY8x8w8Do9typVg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "5fIG7laATvOIgsPPFevqXA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "se6F8VEAbJ_wzFYdf6fC-A",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "H6U5WreDWXMmrkWQNrvO4g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "ZyG9Hw7Kxif471y76hm8rQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "yk66KO84ftPlTpdUnYJhdg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "p_SKmilL_7DQipc-igDPWQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "VX7SgMmSGbCgNenms2XP0A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "upVwJORmpSKTZAlzWD5FxA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "l3VSR7mOiHeVKst2L2-nWA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "mzXxIQo5sERZn_RVJozjtA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "GkxKDPov7Af568ENp4leaQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "Pvr-qNyUDe2aEySZr3yzuA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "e90P2r1Vx_f1i9YqKOFWvw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "d-9vXGzbI2eZAJWKb06h3A",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "qw2Rq1S6p7AOmsE1_WDLIg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "MDb1Rd8iJzjJyIcrZ2NWHg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "HuECL2Vymf6WXvnE1_bvRA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "jH6ipA9xjQBh0Z4odbXppA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "3NmMVlz6sFsBJsVaPtm12A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "ls2BkLyKTKRkqzFXL1BQNw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "fs9Fp7w5wZI5L7mTiB-yzA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "S2n_06z4lGLZfdJ53XAXQQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "Lj8TpcNKo_CqqJ34qE9xog",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "rGjtuEspf4oHb1bkn5ixyA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "1M2YrAhDgAYDW9i7SVF9Rg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "Q45BsmRjt50MMx1fBCyURg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "dDnUfl-hjvhOUsiLh4g9iQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "cjIbKTknnvvw8E7FO6SCzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "5GMz9S0NuQq_vVcRNgi1aw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "TBUc6C7K1mExMN_vSRQSEQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "PKYXtlyuM255NfQlTUX7Vg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "IjF6swxGAObtg1kR5swLBg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "e0kTrMIXTAmmvsmoli45hw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "-f5A6KKUu4jZN1qptD20AA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "k8k-6ACN7-xVs6w91KJ3Xw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "7-8FfqERmzMpbzU_zuMswQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "22Zhfb78DHpyDlAAnfU1LQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "r9xEaQKPnDreCW3u3FeI1w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "7uf-z_NsagSvYTf0uflasA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "PG1L06w6sonKGsTJEbCZIQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "ti-IN8s90u2A8QYm_ZLIlg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "yarEymPVKITeqOEAz81Gug",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "nSmBctYtM77AjFlof_jmDw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "tAVOiCKEh9AsirL7mgxR6Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "WgtCjhibLNXN7yNXzhY7mg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "VWHjjypYPfznN_tRIPfTvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "P9tlkjioLWT0kFX19FLFeQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "HXBWNj2s4d7Pn0nwNy0ffw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "XcjEWqfD2USphxpaouIW5g",
+    "ordered": 1
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "R3ljmQ_pHq1PnRzuWpAxbg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "LgFl8hLpFHLU2B7KUWd8pA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "1v5CmcmEA9oIlQxuAWNkkA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "5wd0DEhx8ugS2KcsoaMszg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "aCa9L-NipZIZlo6wIwlkzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "ufEaoBFe583Ru_iSjS0CiQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "OZ3rsokaA6sFj7jq18DbfA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "pYciLAvg7ZUGoi8DDw2XGw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "NfKcglAqZ3eZMIepH1YwYw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "NWNMw4t-N-l353aNl1ON6Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "ho5ExXcnqt_PpbzeHicEqQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "MXTV7gLn1GcgBIskfIXwMg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "5aZC1FwNiaRayaz7QhAN-Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "p4MgxXcN1rmy9Y3bpW61qQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "D7xCWn-HY8xYXf3-0D-qSg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "5AZcmYkokijM_a21Jp1v8Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "bhkhJEplh42UbezFcQ8ZnA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "dk26UvdutPN2zzoPpqeZ1w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "RwF95o0ReSl_r30i9zoodg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "pt-iIf9j6ZfYiKHYpLMJsA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "d59JUaCVMZj-ZEtlWcOKZw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "EVTKyGT0FQP-L4pAvX-_-w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "at4LVgyVNAhfC6SD_f_0HA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "tPyGueJxl-HSJrdD-7jEFA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "3pA709C4yRFZrjseVUWW-w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "JMxNXrZi9J0qxxsNcCjbIA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "Kv5y8tMfTxujuiLH0q9Ifw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "356dzXl7YXrWq6MrvSz23Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "1KLiPFc09NUu3GX4zebezA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "xJ9ZqxJJE6fWTm3bYUqgkA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "LH-nw2HJNAe8NVLOx6KJNA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u18",
+    "restaurant_id": "CTaS3dtVDJ5Dk3ACI7blYg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "bnSgT1PDYudHliIh4fCHHw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "9OOqLc-DNIpf4Qzne3MgKg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "Z1YH3dvDwdM6_isWY4jtrQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "gGAfy1pNZHqVEItdFG0UvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "BBNNlNmj0R2ZGmlGX99Q_g",
+    "ordered": 1
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "Qbs7XxSZ2oRTOXMR5SQdzg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "TSvvZu0UbffaW6gNV6vgTQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "6wJUKFqSc6M-3K8CGXuRZw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "bhtmNGmgjP8ASuLDge0Urg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "aCGVYpK_l3sGec7Z5cQg8Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "ZhExDd48ZtOj2DFjXPgfpw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "nQeu2F4xOiKoXIp-9engUw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "4-z563pZ4jNCVeJtPW8k_Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "1t8pToCHY8x8w8Do9typVg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "5fIG7laATvOIgsPPFevqXA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "se6F8VEAbJ_wzFYdf6fC-A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "H6U5WreDWXMmrkWQNrvO4g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "ZyG9Hw7Kxif471y76hm8rQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "yk66KO84ftPlTpdUnYJhdg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "p_SKmilL_7DQipc-igDPWQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "upVwJORmpSKTZAlzWD5FxA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "l3VSR7mOiHeVKst2L2-nWA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "mzXxIQo5sERZn_RVJozjtA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "GkxKDPov7Af568ENp4leaQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "Pvr-qNyUDe2aEySZr3yzuA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "e90P2r1Vx_f1i9YqKOFWvw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "d-9vXGzbI2eZAJWKb06h3A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "qw2Rq1S6p7AOmsE1_WDLIg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "MDb1Rd8iJzjJyIcrZ2NWHg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "HuECL2Vymf6WXvnE1_bvRA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "jH6ipA9xjQBh0Z4odbXppA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "3NmMVlz6sFsBJsVaPtm12A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "ls2BkLyKTKRkqzFXL1BQNw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "fs9Fp7w5wZI5L7mTiB-yzA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "S2n_06z4lGLZfdJ53XAXQQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "rGjtuEspf4oHb1bkn5ixyA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "1M2YrAhDgAYDW9i7SVF9Rg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "dDnUfl-hjvhOUsiLh4g9iQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "cjIbKTknnvvw8E7FO6SCzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "5GMz9S0NuQq_vVcRNgi1aw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "TBUc6C7K1mExMN_vSRQSEQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "PKYXtlyuM255NfQlTUX7Vg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "IjF6swxGAObtg1kR5swLBg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "e0kTrMIXTAmmvsmoli45hw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "-f5A6KKUu4jZN1qptD20AA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "k8k-6ACN7-xVs6w91KJ3Xw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "7-8FfqERmzMpbzU_zuMswQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "22Zhfb78DHpyDlAAnfU1LQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "r9xEaQKPnDreCW3u3FeI1w",
+    "ordered": 1
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "7uf-z_NsagSvYTf0uflasA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "PG1L06w6sonKGsTJEbCZIQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "ti-IN8s90u2A8QYm_ZLIlg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "yarEymPVKITeqOEAz81Gug",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "tAVOiCKEh9AsirL7mgxR6Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "WgtCjhibLNXN7yNXzhY7mg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "-3Xl8nSBSjaPpftsSNyrgg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "VWHjjypYPfznN_tRIPfTvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "P9tlkjioLWT0kFX19FLFeQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "HXBWNj2s4d7Pn0nwNy0ffw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "XcjEWqfD2USphxpaouIW5g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "R3ljmQ_pHq1PnRzuWpAxbg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "LgFl8hLpFHLU2B7KUWd8pA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "1v5CmcmEA9oIlQxuAWNkkA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "5wd0DEhx8ugS2KcsoaMszg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "aCa9L-NipZIZlo6wIwlkzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "ufEaoBFe583Ru_iSjS0CiQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "OZ3rsokaA6sFj7jq18DbfA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "pYciLAvg7ZUGoi8DDw2XGw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "NfKcglAqZ3eZMIepH1YwYw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "NWNMw4t-N-l353aNl1ON6Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "ho5ExXcnqt_PpbzeHicEqQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "MXTV7gLn1GcgBIskfIXwMg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "5aZC1FwNiaRayaz7QhAN-Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "p4MgxXcN1rmy9Y3bpW61qQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "D7xCWn-HY8xYXf3-0D-qSg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "bhkhJEplh42UbezFcQ8ZnA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "dk26UvdutPN2zzoPpqeZ1w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "RwF95o0ReSl_r30i9zoodg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "d59JUaCVMZj-ZEtlWcOKZw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "EVTKyGT0FQP-L4pAvX-_-w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "Kz8fV4tLl8HlPpoDYVsmCQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "HvBLY3-R1KxocZapeAAvZQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "3pA709C4yRFZrjseVUWW-w",
+    "ordered": 1
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "JMxNXrZi9J0qxxsNcCjbIA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "Kv5y8tMfTxujuiLH0q9Ifw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "356dzXl7YXrWq6MrvSz23Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "1KLiPFc09NUu3GX4zebezA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "xJ9ZqxJJE6fWTm3bYUqgkA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "LH-nw2HJNAe8NVLOx6KJNA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u19",
+    "restaurant_id": "CTaS3dtVDJ5Dk3ACI7blYg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "bnSgT1PDYudHliIh4fCHHw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "eN1NbRBlOt2gem0fhOjIPQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "9OOqLc-DNIpf4Qzne3MgKg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "gGAfy1pNZHqVEItdFG0UvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "BBNNlNmj0R2ZGmlGX99Q_g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "Qbs7XxSZ2oRTOXMR5SQdzg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "TSvvZu0UbffaW6gNV6vgTQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "6wJUKFqSc6M-3K8CGXuRZw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "bhtmNGmgjP8ASuLDge0Urg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "aCGVYpK_l3sGec7Z5cQg8Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "ZhExDd48ZtOj2DFjXPgfpw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "nQeu2F4xOiKoXIp-9engUw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "4-z563pZ4jNCVeJtPW8k_Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "1t8pToCHY8x8w8Do9typVg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "5fIG7laATvOIgsPPFevqXA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "se6F8VEAbJ_wzFYdf6fC-A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "H6U5WreDWXMmrkWQNrvO4g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "ZyG9Hw7Kxif471y76hm8rQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "yk66KO84ftPlTpdUnYJhdg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "p_SKmilL_7DQipc-igDPWQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "VX7SgMmSGbCgNenms2XP0A",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "upVwJORmpSKTZAlzWD5FxA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "l3VSR7mOiHeVKst2L2-nWA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "mzXxIQo5sERZn_RVJozjtA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "GkxKDPov7Af568ENp4leaQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "Pvr-qNyUDe2aEySZr3yzuA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "e90P2r1Vx_f1i9YqKOFWvw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "d-9vXGzbI2eZAJWKb06h3A",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "qw2Rq1S6p7AOmsE1_WDLIg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "MDb1Rd8iJzjJyIcrZ2NWHg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "HuECL2Vymf6WXvnE1_bvRA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "jH6ipA9xjQBh0Z4odbXppA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "3NmMVlz6sFsBJsVaPtm12A",
+    "ordered": 1
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "ls2BkLyKTKRkqzFXL1BQNw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "fs9Fp7w5wZI5L7mTiB-yzA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "S2n_06z4lGLZfdJ53XAXQQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "Lj8TpcNKo_CqqJ34qE9xog",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "rGjtuEspf4oHb1bkn5ixyA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "1M2YrAhDgAYDW9i7SVF9Rg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "Q45BsmRjt50MMx1fBCyURg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "dDnUfl-hjvhOUsiLh4g9iQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "cjIbKTknnvvw8E7FO6SCzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "5GMz9S0NuQq_vVcRNgi1aw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "TBUc6C7K1mExMN_vSRQSEQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "PKYXtlyuM255NfQlTUX7Vg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "IjF6swxGAObtg1kR5swLBg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "e0kTrMIXTAmmvsmoli45hw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "-f5A6KKUu4jZN1qptD20AA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "k8k-6ACN7-xVs6w91KJ3Xw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "7-8FfqERmzMpbzU_zuMswQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "22Zhfb78DHpyDlAAnfU1LQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "r9xEaQKPnDreCW3u3FeI1w",
+    "ordered": 1
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "7uf-z_NsagSvYTf0uflasA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "PG1L06w6sonKGsTJEbCZIQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "ti-IN8s90u2A8QYm_ZLIlg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "yarEymPVKITeqOEAz81Gug",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "nSmBctYtM77AjFlof_jmDw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "tAVOiCKEh9AsirL7mgxR6Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "WgtCjhibLNXN7yNXzhY7mg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "WxXyx8LNI08M7sXyjvomDg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "-3Xl8nSBSjaPpftsSNyrgg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "VWHjjypYPfznN_tRIPfTvQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "P9tlkjioLWT0kFX19FLFeQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "HXBWNj2s4d7Pn0nwNy0ffw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "XcjEWqfD2USphxpaouIW5g",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "R3ljmQ_pHq1PnRzuWpAxbg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "LgFl8hLpFHLU2B7KUWd8pA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "1v5CmcmEA9oIlQxuAWNkkA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "5wd0DEhx8ugS2KcsoaMszg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "aCa9L-NipZIZlo6wIwlkzw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "ufEaoBFe583Ru_iSjS0CiQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "OZ3rsokaA6sFj7jq18DbfA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "pYciLAvg7ZUGoi8DDw2XGw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "NfKcglAqZ3eZMIepH1YwYw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "NWNMw4t-N-l353aNl1ON6Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "ho5ExXcnqt_PpbzeHicEqQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "MXTV7gLn1GcgBIskfIXwMg",
+    "ordered": 1
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "5aZC1FwNiaRayaz7QhAN-Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "p4MgxXcN1rmy9Y3bpW61qQ",
+    "ordered": 1
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "D7xCWn-HY8xYXf3-0D-qSg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "5AZcmYkokijM_a21Jp1v8Q",
+    "ordered": 1
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "bhkhJEplh42UbezFcQ8ZnA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "dk26UvdutPN2zzoPpqeZ1w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "RwF95o0ReSl_r30i9zoodg",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "pt-iIf9j6ZfYiKHYpLMJsA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "d59JUaCVMZj-ZEtlWcOKZw",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "EVTKyGT0FQP-L4pAvX-_-w",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "at4LVgyVNAhfC6SD_f_0HA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "Kz8fV4tLl8HlPpoDYVsmCQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "tPyGueJxl-HSJrdD-7jEFA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "HvBLY3-R1KxocZapeAAvZQ",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "3pA709C4yRFZrjseVUWW-w",
+    "ordered": 1
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "JMxNXrZi9J0qxxsNcCjbIA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "Kv5y8tMfTxujuiLH0q9Ifw",
+    "ordered": 1
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "356dzXl7YXrWq6MrvSz23Q",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "1KLiPFc09NUu3GX4zebezA",
+    "ordered": 1
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "xJ9ZqxJJE6fWTm3bYUqgkA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "LH-nw2HJNAe8NVLOx6KJNA",
+    "ordered": 0
+  },
+  {
+    "user_id": "u20",
+    "restaurant_id": "CTaS3dtVDJ5Dk3ACI7blYg",
+    "ordered": 0
+  }
+]
