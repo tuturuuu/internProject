@@ -2,344 +2,395 @@
   {
     "user_id": "u1",
     "history": [
-      "Lj8TpcNKo_CqqJ34qE9xog",
-      "nQeu2F4xOiKoXIp-9engUw",
-      "ZhExDd48ZtOj2DFjXPgfpw",
-      "aCa9L-NipZIZlo6wIwlkzw",
-      "VWHjjypYPfznN_tRIPfTvQ",
-      "Q45BsmRjt50MMx1fBCyURg",
-      "IjF6swxGAObtg1kR5swLBg",
-      "d-9vXGzbI2eZAJWKb06h3A",
-      "WgtCjhibLNXN7yNXzhY7mg",
-      "l3VSR7mOiHeVKst2L2-nWA"
+      "HvBLY3-R1KxocZapeAAvZQ"
     ],
     "behavior_profile": {
-      "reorder_rate": 0.95,
-      "avg_basket_size": 4,
-      "order_frequency_per_week": 1.6,
-      "cuisine_diversity": 0.1
+      "reorder_rate": 0.78,
+      "avg_basket_size": 8,
+      "order_frequency_per_week": 0.8,
+      "cuisine_diversity": 1.0
     }
   },
   {
     "user_id": "u2",
     "history": [
-      "-f5A6KKUu4jZN1qptD20AA",
-      "k8k-6ACN7-xVs6w91KJ3Xw",
-      "BBNNlNmj0R2ZGmlGX99Q_g",
-      "R3ljmQ_pHq1PnRzuWpAxbg",
-      "3NmMVlz6sFsBJsVaPtm12A",
-      "at4LVgyVNAhfC6SD_f_0HA",
-      "qw2Rq1S6p7AOmsE1_WDLIg",
-      "1KLiPFc09NUu3GX4zebezA",
-      "Lj8TpcNKo_CqqJ34qE9xog"
+      "WxXyx8LNI08M7sXyjvomDg",
+      "HvBLY3-R1KxocZapeAAvZQ",
+      "-3Xl8nSBSjaPpftsSNyrgg",
+      "Kz8fV4tLl8HlPpoDYVsmCQ",
+      "Z1YH3dvDwdM6_isWY4jtrQ"
     ],
     "behavior_profile": {
-      "reorder_rate": 0.94,
-      "avg_basket_size": 6,
-      "order_frequency_per_week": 2.2,
-      "cuisine_diversity": 0.11
+      "reorder_rate": 0.58,
+      "avg_basket_size": 4,
+      "order_frequency_per_week": 5.1,
+      "cuisine_diversity": 0.6
     }
   },
   {
     "user_id": "u3",
     "history": [
-      "OZ3rsokaA6sFj7jq18DbfA",
-      "ZhExDd48ZtOj2DFjXPgfpw",
-      "1KLiPFc09NUu3GX4zebezA",
-      "TBUc6C7K1mExMN_vSRQSEQ",
-      "tPyGueJxl-HSJrdD-7jEFA",
-      "3pA709C4yRFZrjseVUWW-w",
-      "-f5A6KKUu4jZN1qptD20AA",
-      "pYciLAvg7ZUGoi8DDw2XGw",
-      "1t8pToCHY8x8w8Do9typVg",
-      "1M2YrAhDgAYDW9i7SVF9Rg"
+      "WxXyx8LNI08M7sXyjvomDg",
+      "Kz8fV4tLl8HlPpoDYVsmCQ",
+      "-3Xl8nSBSjaPpftsSNyrgg"
     ],
     "behavior_profile": {
-      "reorder_rate": 0.92,
-      "avg_basket_size": 8,
-      "order_frequency_per_week": 4.8,
-      "cuisine_diversity": 0.1
+      "reorder_rate": 0.7,
+      "avg_basket_size": 2,
+      "order_frequency_per_week": 2.9,
+      "cuisine_diversity": 0.33
     }
   },
   {
     "user_id": "u4",
     "history": [
-      "WxXyx8LNI08M7sXyjvomDg",
+      "HvBLY3-R1KxocZapeAAvZQ",
+      "Kz8fV4tLl8HlPpoDYVsmCQ",
       "-3Xl8nSBSjaPpftsSNyrgg",
-      "Kz8fV4tLl8HlPpoDYVsmCQ"
+      "Z1YH3dvDwdM6_isWY4jtrQ",
+      "WxXyx8LNI08M7sXyjvomDg"
     ],
     "behavior_profile": {
-      "reorder_rate": 0.69,
-      "avg_basket_size": 6,
-      "order_frequency_per_week": 6.9,
-      "cuisine_diversity": 0.33
+      "reorder_rate": 0.47,
+      "avg_basket_size": 5,
+      "order_frequency_per_week": 5.3,
+      "cuisine_diversity": 0.6
     }
   },
   {
     "user_id": "u5",
     "history": [
-      "Z1YH3dvDwdM6_isWY4jtrQ"
+      "HvBLY3-R1KxocZapeAAvZQ"
     ],
     "behavior_profile": {
-      "reorder_rate": 0.91,
-      "avg_basket_size": 3,
-      "order_frequency_per_week": 1.9,
+      "reorder_rate": 0.95,
+      "avg_basket_size": 7,
+      "order_frequency_per_week": 6.9,
       "cuisine_diversity": 1.0
     }
   },
   {
     "user_id": "u6",
     "history": [
-      "TBUc6C7K1mExMN_vSRQSEQ",
-      "d-9vXGzbI2eZAJWKb06h3A",
-      "ti-IN8s90u2A8QYm_ZLIlg",
-      "WgtCjhibLNXN7yNXzhY7mg",
-      "ho5ExXcnqt_PpbzeHicEqQ",
-      "EVTKyGT0FQP-L4pAvX-_-w",
-      "Kv5y8tMfTxujuiLH0q9Ifw",
-      "OZ3rsokaA6sFj7jq18DbfA",
-      "p4MgxXcN1rmy9Y3bpW61qQ",
-      "ufEaoBFe583Ru_iSjS0CiQ"
+      "4-z563pZ4jNCVeJtPW8k_Q",
+      "ls2BkLyKTKRkqzFXL1BQNw",
+      "ZhExDd48ZtOj2DFjXPgfpw",
+      "RwF95o0ReSl_r30i9zoodg",
+      "5aZC1FwNiaRayaz7QhAN-Q",
+      "p_SKmilL_7DQipc-igDPWQ",
+      "Lj8TpcNKo_CqqJ34qE9xog"
     ],
     "behavior_profile": {
-      "reorder_rate": 0.92,
-      "avg_basket_size": 4,
-      "order_frequency_per_week": 5.1,
-      "cuisine_diversity": 0.1
+      "reorder_rate": 0.9,
+      "avg_basket_size": 7,
+      "order_frequency_per_week": 4.4,
+      "cuisine_diversity": 0.14
     }
   },
   {
     "user_id": "u7",
     "history": [
-      "HuECL2Vymf6WXvnE1_bvRA",
-      "Kv5y8tMfTxujuiLH0q9Ifw",
-      "6wJUKFqSc6M-3K8CGXuRZw",
-      "7-8FfqERmzMpbzU_zuMswQ",
-      "NfKcglAqZ3eZMIepH1YwYw",
-      "aCa9L-NipZIZlo6wIwlkzw",
+      "upVwJORmpSKTZAlzWD5FxA",
+      "pYciLAvg7ZUGoi8DDw2XGw",
+      "Pvr-qNyUDe2aEySZr3yzuA",
+      "XcjEWqfD2USphxpaouIW5g",
+      "qw2Rq1S6p7AOmsE1_WDLIg",
       "d59JUaCVMZj-ZEtlWcOKZw"
     ],
     "behavior_profile": {
-      "reorder_rate": 0.87,
-      "avg_basket_size": 2,
-      "order_frequency_per_week": 3.7,
-      "cuisine_diversity": 0.14
+      "reorder_rate": 0.92,
+      "avg_basket_size": 3,
+      "order_frequency_per_week": 4.8,
+      "cuisine_diversity": 0.17
     }
   },
   {
     "user_id": "u8",
     "history": [
-      "Kz8fV4tLl8HlPpoDYVsmCQ",
-      "WxXyx8LNI08M7sXyjvomDg",
-      "HvBLY3-R1KxocZapeAAvZQ",
-      "Z1YH3dvDwdM6_isWY4jtrQ",
-      "-3Xl8nSBSjaPpftsSNyrgg"
+      "Kv5y8tMfTxujuiLH0q9Ifw",
+      "TBUc6C7K1mExMN_vSRQSEQ",
+      "se6F8VEAbJ_wzFYdf6fC-A",
+      "ZhExDd48ZtOj2DFjXPgfpw",
+      "Pvr-qNyUDe2aEySZr3yzuA"
     ],
     "behavior_profile": {
-      "reorder_rate": 0.83,
-      "avg_basket_size": 3,
-      "order_frequency_per_week": 6.4,
-      "cuisine_diversity": 0.6
+      "reorder_rate": 0.9,
+      "avg_basket_size": 8,
+      "order_frequency_per_week": 5.7,
+      "cuisine_diversity": 0.2
     }
   },
   {
     "user_id": "u9",
     "history": [
-      "-3Xl8nSBSjaPpftsSNyrgg",
-      "HvBLY3-R1KxocZapeAAvZQ",
-      "WxXyx8LNI08M7sXyjvomDg",
-      "Kz8fV4tLl8HlPpoDYVsmCQ"
+      "HXBWNj2s4d7Pn0nwNy0ffw",
+      "NWNMw4t-N-l353aNl1ON6Q",
+      "PKYXtlyuM255NfQlTUX7Vg",
+      "yarEymPVKITeqOEAz81Gug",
+      "PG1L06w6sonKGsTJEbCZIQ",
+      "aCa9L-NipZIZlo6wIwlkzw",
+      "qw2Rq1S6p7AOmsE1_WDLIg",
+      "d-9vXGzbI2eZAJWKb06h3A"
     ],
     "behavior_profile": {
-      "reorder_rate": 0.67,
-      "avg_basket_size": 7,
-      "order_frequency_per_week": 6.5,
-      "cuisine_diversity": 0.5
+      "reorder_rate": 0.95,
+      "avg_basket_size": 5,
+      "order_frequency_per_week": 0.8,
+      "cuisine_diversity": 0.12
     }
   },
   {
     "user_id": "u10",
     "history": [
-      "-3Xl8nSBSjaPpftsSNyrgg",
-      "WxXyx8LNI08M7sXyjvomDg",
-      "Kz8fV4tLl8HlPpoDYVsmCQ"
+      "k8k-6ACN7-xVs6w91KJ3Xw",
+      "dDnUfl-hjvhOUsiLh4g9iQ",
+      "PG1L06w6sonKGsTJEbCZIQ",
+      "l3VSR7mOiHeVKst2L2-nWA",
+      "BBNNlNmj0R2ZGmlGX99Q_g",
+      "eN1NbRBlOt2gem0fhOjIPQ",
+      "MXTV7gLn1GcgBIskfIXwMg",
+      "ufEaoBFe583Ru_iSjS0CiQ"
     ],
     "behavior_profile": {
-      "reorder_rate": 0.78,
-      "avg_basket_size": 6,
-      "order_frequency_per_week": 5.7,
-      "cuisine_diversity": 0.33
+      "reorder_rate": 0.91,
+      "avg_basket_size": 8,
+      "order_frequency_per_week": 6.7,
+      "cuisine_diversity": 0.12
     }
   },
   {
     "user_id": "u11",
     "history": [
-      "PKYXtlyuM255NfQlTUX7Vg",
-      "XcjEWqfD2USphxpaouIW5g",
-      "WgtCjhibLNXN7yNXzhY7mg",
-      "OZ3rsokaA6sFj7jq18DbfA",
-      "P9tlkjioLWT0kFX19FLFeQ",
-      "5aZC1FwNiaRayaz7QhAN-Q",
-      "LgFl8hLpFHLU2B7KUWd8pA",
-      "TBUc6C7K1mExMN_vSRQSEQ",
-      "d-9vXGzbI2eZAJWKb06h3A",
-      "mzXxIQo5sERZn_RVJozjtA"
+      "Kz8fV4tLl8HlPpoDYVsmCQ",
+      "-3Xl8nSBSjaPpftsSNyrgg",
+      "Z1YH3dvDwdM6_isWY4jtrQ",
+      "WxXyx8LNI08M7sXyjvomDg",
+      "HvBLY3-R1KxocZapeAAvZQ"
     ],
     "behavior_profile": {
-      "reorder_rate": 0.91,
-      "avg_basket_size": 7,
-      "order_frequency_per_week": 0.9,
-      "cuisine_diversity": 0.1
+      "reorder_rate": 0.68,
+      "avg_basket_size": 6,
+      "order_frequency_per_week": 2.6,
+      "cuisine_diversity": 0.6
     }
   },
   {
     "user_id": "u12",
     "history": [
-      "Z1YH3dvDwdM6_isWY4jtrQ"
+      "WxXyx8LNI08M7sXyjvomDg",
+      "Kz8fV4tLl8HlPpoDYVsmCQ",
+      "-3Xl8nSBSjaPpftsSNyrgg",
+      "Z1YH3dvDwdM6_isWY4jtrQ",
+      "HvBLY3-R1KxocZapeAAvZQ"
     ],
     "behavior_profile": {
-      "reorder_rate": 0.62,
-      "avg_basket_size": 4,
-      "order_frequency_per_week": 4.1,
-      "cuisine_diversity": 1.0
+      "reorder_rate": 0.56,
+      "avg_basket_size": 7,
+      "order_frequency_per_week": 1.5,
+      "cuisine_diversity": 0.6
     }
   },
   {
     "user_id": "u13",
     "history": [
-      "tAVOiCKEh9AsirL7mgxR6Q",
-      "PG1L06w6sonKGsTJEbCZIQ",
-      "Kv5y8tMfTxujuiLH0q9Ifw",
-      "22Zhfb78DHpyDlAAnfU1LQ",
-      "r9xEaQKPnDreCW3u3FeI1w",
-      "GkxKDPov7Af568ENp4leaQ"
+      "-3Xl8nSBSjaPpftsSNyrgg",
+      "WxXyx8LNI08M7sXyjvomDg",
+      "Kz8fV4tLl8HlPpoDYVsmCQ",
+      "Z1YH3dvDwdM6_isWY4jtrQ"
     ],
     "behavior_profile": {
-      "reorder_rate": 0.89,
-      "avg_basket_size": 4,
-      "order_frequency_per_week": 3.5,
-      "cuisine_diversity": 0.17
+      "reorder_rate": 0.79,
+      "avg_basket_size": 1,
+      "order_frequency_per_week": 0.6,
+      "cuisine_diversity": 0.5
     }
   },
   {
     "user_id": "u14",
     "history": [
-      "TBUc6C7K1mExMN_vSRQSEQ",
-      "-f5A6KKUu4jZN1qptD20AA",
-      "bnSgT1PDYudHliIh4fCHHw",
-      "yk66KO84ftPlTpdUnYJhdg",
-      "1KLiPFc09NUu3GX4zebezA",
-      "LgFl8hLpFHLU2B7KUWd8pA",
-      "S2n_06z4lGLZfdJ53XAXQQ",
-      "cjIbKTknnvvw8E7FO6SCzw"
+      "WxXyx8LNI08M7sXyjvomDg",
+      "-3Xl8nSBSjaPpftsSNyrgg",
+      "Kz8fV4tLl8HlPpoDYVsmCQ"
     ],
     "behavior_profile": {
-      "reorder_rate": 0.89,
-      "avg_basket_size": 7,
-      "order_frequency_per_week": 3.9,
-      "cuisine_diversity": 0.12
+      "reorder_rate": 0.84,
+      "avg_basket_size": 4,
+      "order_frequency_per_week": 1.3,
+      "cuisine_diversity": 0.33
     }
   },
   {
     "user_id": "u15",
     "history": [
-      "1v5CmcmEA9oIlQxuAWNkkA",
-      "eN1NbRBlOt2gem0fhOjIPQ",
-      "PKYXtlyuM255NfQlTUX7Vg",
-      "1KLiPFc09NUu3GX4zebezA",
-      "fs9Fp7w5wZI5L7mTiB-yzA",
-      "bhkhJEplh42UbezFcQ8ZnA",
-      "upVwJORmpSKTZAlzWD5FxA",
-      "Qbs7XxSZ2oRTOXMR5SQdzg"
+      "Kz8fV4tLl8HlPpoDYVsmCQ",
+      "WxXyx8LNI08M7sXyjvomDg",
+      "-3Xl8nSBSjaPpftsSNyrgg"
     ],
     "behavior_profile": {
-      "reorder_rate": 0.89,
-      "avg_basket_size": 4,
-      "order_frequency_per_week": 5.1,
-      "cuisine_diversity": 0.12
+      "reorder_rate": 0.77,
+      "avg_basket_size": 8,
+      "order_frequency_per_week": 4.8,
+      "cuisine_diversity": 0.33
     }
   },
   {
     "user_id": "u16",
     "history": [
-      "Kz8fV4tLl8HlPpoDYVsmCQ",
-      "Z1YH3dvDwdM6_isWY4jtrQ",
-      "HvBLY3-R1KxocZapeAAvZQ",
-      "-3Xl8nSBSjaPpftsSNyrgg",
-      "WxXyx8LNI08M7sXyjvomDg"
+      "bnSgT1PDYudHliIh4fCHHw",
+      "dk26UvdutPN2zzoPpqeZ1w",
+      "dDnUfl-hjvhOUsiLh4g9iQ",
+      "at4LVgyVNAhfC6SD_f_0HA",
+      "d59JUaCVMZj-ZEtlWcOKZw",
+      "NfKcglAqZ3eZMIepH1YwYw",
+      "ufEaoBFe583Ru_iSjS0CiQ"
     ],
     "behavior_profile": {
-      "reorder_rate": 0.86,
-      "avg_basket_size": 5,
-      "order_frequency_per_week": 4.8,
-      "cuisine_diversity": 0.6
+      "reorder_rate": 0.92,
+      "avg_basket_size": 7,
+      "order_frequency_per_week": 6.5,
+      "cuisine_diversity": 0.14
     }
   },
   {
     "user_id": "u17",
     "history": [
-      "7uf-z_NsagSvYTf0uflasA",
-      "356dzXl7YXrWq6MrvSz23Q",
-      "Qbs7XxSZ2oRTOXMR5SQdzg",
-      "-f5A6KKUu4jZN1qptD20AA",
-      "d59JUaCVMZj-ZEtlWcOKZw",
-      "5fIG7laATvOIgsPPFevqXA",
-      "HuECL2Vymf6WXvnE1_bvRA",
-      "ti-IN8s90u2A8QYm_ZLIlg",
-      "l3VSR7mOiHeVKst2L2-nWA"
+      "qw2Rq1S6p7AOmsE1_WDLIg",
+      "WgtCjhibLNXN7yNXzhY7mg",
+      "NfKcglAqZ3eZMIepH1YwYw",
+      "p_SKmilL_7DQipc-igDPWQ",
+      "VWHjjypYPfznN_tRIPfTvQ",
+      "9OOqLc-DNIpf4Qzne3MgKg",
+      "Q45BsmRjt50MMx1fBCyURg",
+      "EVTKyGT0FQP-L4pAvX-_-w"
     ],
     "behavior_profile": {
       "reorder_rate": 0.91,
-      "avg_basket_size": 8,
-      "order_frequency_per_week": 3.3,
-      "cuisine_diversity": 0.11
+      "avg_basket_size": 1,
+      "order_frequency_per_week": 2.1,
+      "cuisine_diversity": 0.12
     }
   },
   {
     "user_id": "u18",
     "history": [
-      "HvBLY3-R1KxocZapeAAvZQ",
-      "-3Xl8nSBSjaPpftsSNyrgg",
-      "Kz8fV4tLl8HlPpoDYVsmCQ",
-      "WxXyx8LNI08M7sXyjvomDg"
+      "IjF6swxGAObtg1kR5swLBg",
+      "NWNMw4t-N-l353aNl1ON6Q",
+      "Pvr-qNyUDe2aEySZr3yzuA",
+      "TBUc6C7K1mExMN_vSRQSEQ",
+      "GkxKDPov7Af568ENp4leaQ",
+      "OZ3rsokaA6sFj7jq18DbfA",
+      "ti-IN8s90u2A8QYm_ZLIlg"
     ],
     "behavior_profile": {
-      "reorder_rate": 0.58,
-      "avg_basket_size": 2,
-      "order_frequency_per_week": 3.9,
-      "cuisine_diversity": 0.5
+      "reorder_rate": 0.88,
+      "avg_basket_size": 6,
+      "order_frequency_per_week": 5.6,
+      "cuisine_diversity": 0.14
     }
   },
   {
     "user_id": "u19",
     "history": [
-      "Q45BsmRjt50MMx1fBCyURg",
-      "eN1NbRBlOt2gem0fhOjIPQ",
-      "nSmBctYtM77AjFlof_jmDw",
-      "tPyGueJxl-HSJrdD-7jEFA",
-      "VX7SgMmSGbCgNenms2XP0A",
-      "pt-iIf9j6ZfYiKHYpLMJsA",
-      "Lj8TpcNKo_CqqJ34qE9xog",
-      "5AZcmYkokijM_a21Jp1v8Q",
       "at4LVgyVNAhfC6SD_f_0HA",
-      "WxXyx8LNI08M7sXyjvomDg"
+      "cjIbKTknnvvw8E7FO6SCzw",
+      "5aZC1FwNiaRayaz7QhAN-Q",
+      "d-9vXGzbI2eZAJWKb06h3A",
+      "XcjEWqfD2USphxpaouIW5g",
+      "3pA709C4yRFZrjseVUWW-w",
+      "3NmMVlz6sFsBJsVaPtm12A"
     ],
     "behavior_profile": {
-      "reorder_rate": 0.87,
+      "reorder_rate": 0.88,
       "avg_basket_size": 8,
-      "order_frequency_per_week": 6.3,
-      "cuisine_diversity": 0.2
+      "order_frequency_per_week": 2.5,
+      "cuisine_diversity": 0.14
     }
   },
   {
     "user_id": "u20",
     "history": [
-      "Z1YH3dvDwdM6_isWY4jtrQ"
+      "Z1YH3dvDwdM6_isWY4jtrQ",
+      "HvBLY3-R1KxocZapeAAvZQ"
+    ],
+    "behavior_profile": {
+      "reorder_rate": 0.57,
+      "avg_basket_size": 8,
+      "order_frequency_per_week": 2.1,
+      "cuisine_diversity": 1.0
+    }
+  },
+  {
+    "user_id": "u21",
+    "history": [
+      "HvBLY3-R1KxocZapeAAvZQ"
+    ],
+    "behavior_profile": {
+      "reorder_rate": 0.37,
+      "avg_basket_size": 2,
+      "order_frequency_per_week": 3.3,
+      "cuisine_diversity": 1.0
+    }
+  },
+  {
+    "user_id": "u22",
+    "history": [
+      "Z1YH3dvDwdM6_isWY4jtrQ",
+      "HvBLY3-R1KxocZapeAAvZQ",
+      "Kz8fV4tLl8HlPpoDYVsmCQ",
+      "-3Xl8nSBSjaPpftsSNyrgg",
+      "WxXyx8LNI08M7sXyjvomDg"
+    ],
+    "behavior_profile": {
+      "reorder_rate": 0.46,
+      "avg_basket_size": 7,
+      "order_frequency_per_week": 2.6,
+      "cuisine_diversity": 0.6
+    }
+  },
+  {
+    "user_id": "u23",
+    "history": [
+      "5wd0DEhx8ugS2KcsoaMszg",
+      "yk66KO84ftPlTpdUnYJhdg",
+      "WgtCjhibLNXN7yNXzhY7mg",
+      "bhkhJEplh42UbezFcQ8ZnA",
+      "7-8FfqERmzMpbzU_zuMswQ",
+      "Kz8fV4tLl8HlPpoDYVsmCQ",
+      "R3ljmQ_pHq1PnRzuWpAxbg",
+      "-f5A6KKUu4jZN1qptD20AA",
+      "H6U5WreDWXMmrkWQNrvO4g"
+    ],
+    "behavior_profile": {
+      "reorder_rate": 0.84,
+      "avg_basket_size": 4,
+      "order_frequency_per_week": 3.5,
+      "cuisine_diversity": 0.22
+    }
+  },
+  {
+    "user_id": "u24",
+    "history": [
+      "Z1YH3dvDwdM6_isWY4jtrQ",
+      "WxXyx8LNI08M7sXyjvomDg",
+      "-3Xl8nSBSjaPpftsSNyrgg",
+      "Kz8fV4tLl8HlPpoDYVsmCQ"
     ],
     "behavior_profile": {
       "reorder_rate": 0.61,
       "avg_basket_size": 8,
-      "order_frequency_per_week": 1.8,
+      "order_frequency_per_week": 1.2,
+      "cuisine_diversity": 0.5
+    }
+  },
+  {
+    "user_id": "u25",
+    "history": [
+      "HvBLY3-R1KxocZapeAAvZQ"
+    ],
+    "behavior_profile": {
+      "reorder_rate": 0.79,
+      "avg_basket_size": 3,
+      "order_frequency_per_week": 5.4,
       "cuisine_diversity": 1.0
     }
   }

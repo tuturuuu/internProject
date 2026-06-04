@@ -13,6 +13,7 @@ load_dotenv()
 
 ROOT_DIR = Path(__file__).resolve().parents[2]
 DATA_DIR = ROOT_DIR / "data"
+PROMPTS_DIR = ROOT_DIR / "prompts" / "llm_ranker"
 OPENAI_MODEL = os.environ.get("OPENAI_MODEL", "gpt-4.1")
 
 
@@ -82,17 +83,27 @@ def build_history_payload(history_ids):
 
 
 def build_candidates_payload(candidate_businesses):
+    business_by_id = load_business_by_id()
     return [
         {
-            "restaurant_id": business["id"],
+            "restaurant_id": business.get("id", business.get("restaurant_id")),
             "name": business["name"],
-            "cuisine": business["cuisine"],
-            "rating": float(business["rating"]),
-            "price_range": business["price_range"],
-            "tags": business["tags"][:10],
+            "cuisine": business_by_id.get(business.get("id", business.get("restaurant_id")), business).get("cuisine"),
+            "rating": float(
+                business_by_id.get(business.get("id", business.get("restaurant_id")), business).get("rating", business.get("score", 0.0))
+            ),
+            "price_range": business_by_id.get(business.get("id", business.get("restaurant_id")), business).get("price_range"),
+            "tags": business_by_id.get(business.get("id", business.get("restaurant_id")), business).get("tags", [])[:5],
         }
         for business in candidate_businesses
     ]
+
+
+@lru_cache(maxsize=8)
+def load_prompt_text(prompt_name):
+    prompt_path = PROMPTS_DIR / prompt_name
+    with open(prompt_path, "r", encoding="utf-8") as file_handle:
+        return file_handle.read().strip()
 
 
 def call_openai_json(prompt, schema_name, schema):
@@ -129,31 +140,73 @@ def call_openai_json(prompt, schema_name, schema):
         raise HTTPException(status_code=500, detail="OpenAI returned an invalid JSON payload") from error
 
 
-def score_businesses_with_llm(history, candidate_businesses, return_metrics=False):
+def build_gbt_context_payload(gbt_ranked_candidates):
+    return [
+        {
+            "restaurant_id": business["restaurant_id"],
+            "name": business["name"],
+            "score": round(float(business["score"]), 6),
+            "label": int(business["label"]),
+        }
+        for business in gbt_ranked_candidates
+    ]
+
+
+def build_relevance_hint(user_summary):
+    return {
+        "likely_relevant_cuisine": user_summary["dominant_cuisine"],
+        "likely_relevant_price_range": user_summary["dominant_price"],
+        "important_tags": user_summary["top_tags"][:5],
+        "rating_preference": {
+            "history_average_rating": user_summary["average_rating"],
+            "prefer_businesses_close_to_or_above_history_average": True,
+        },
+        "scoring_hint": (
+            "Prefer businesses that match the user's dominant cuisine, "
+            "price range, and tag patterns from past history. "
+            "Use rating as a mild tie-breaker, not the only signal."
+        ),
+    }
+
+
+def build_compact_user_profile(user_summary):
+    return {
+        "history_length": user_summary["history_length"],
+        "dominant_cuisine": user_summary["dominant_cuisine"],
+        "dominant_price": user_summary["dominant_price"],
+        "average_rating": user_summary["average_rating"],
+        "top_tags": user_summary["top_tags"][:5],
+    }
+
+
+def score_businesses_with_llm(history, candidate_businesses, gbt_context=None, return_metrics=False):
     user_summary = summarize_user(history)
     user_history_names = build_history_payload(history)
     candidates_payload = build_candidates_payload(candidate_businesses)
+    gbt_context_payload = build_gbt_context_payload(gbt_context) if gbt_context else None
+    relevance_hint = build_relevance_hint(user_summary)
+    compact_user_profile = build_compact_user_profile(user_summary)
+    system_prompt = load_prompt_text("v4_system.txt")
 
     prompt = [
         {
             "role": "system",
-            "content": (
-                "You are a recommendation scorer. "
-                "Given a user's history and a set of candidate businesses, "
-                "predict whether the user would click/order each candidate. "
-                "Return only valid JSON matching the schema."
-            ),
+            "content": system_prompt,
         },
         {
             "role": "user",
             "content": json.dumps(
                 {
                     "user_history": user_history_names,
-                    "user_preferences": user_summary,
+                    "user_profile": compact_user_profile,
+                    "relevance_hint": relevance_hint,
                     "candidates": candidates_payload,
+                    "gbt_ranker_context": gbt_context_payload,
                     "instructions": [
                         "Score each candidate from 0.0 to 1.0 as click/order likelihood.",
                         "Use higher scores for stronger matches to the user's taste.",
+                        "Treat the GBT context as a ranking signal, not as a final answer.",
+                        "Focus on cuisine, tag, and price matches first.",
                         "Set label to 1 when score is at least 0.5, otherwise 0.",
                         "Return a recommendation entry for every candidate provided.",
                     ],

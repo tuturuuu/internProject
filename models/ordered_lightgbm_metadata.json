@@ -1,6 +1,6 @@
 {
-  "model_path": "/home/duckduck/dev/work/VinUni/intern-project/models/ordered_xgboost.json",
-  "metadata_path": "/home/duckduck/dev/work/VinUni/intern-project/models/ordered_xgboost_metadata.json",
+  "model_path": "/home/duckduck/dev/work/VinUni/intern-project/models/ordered_lightgbm.txt",
+  "metadata_path": "/home/duckduck/dev/work/VinUni/intern-project/models/ordered_lightgbm_metadata.json",
   "feature_names": [
     "user_reorder_rate",
     "user_avg_basket_size",
@@ -141,155 +141,111 @@
   "train_rows": 1901,
   "validation_rows": 479,
   "metrics": {
-    "ndcg@3": 0.8122885095908974,
-    "ndcg@5": 0.8643359178905536,
-    "ndcg@10": 0.8262902840947486,
-    "best_iteration": 62,
-    "best_score": 0.6971127981240415
+    "ndcg@3": 0.7407836178068269,
+    "ndcg@5": 0.8796859279403402,
+    "ndcg@10": 0.6198240552918906,
+    "best_iteration": 17,
+    "best_score": 0.6198240552918906
   },
   "feature_importance": [
     {
       "feature": "business_tag_presence__bike-parking",
-      "gain": 6.301928520202637
-    },
-    {
-      "feature": "user_dominant_cuisine__Mexican",
-      "gain": 5.960296630859375
-    },
-    {
-      "feature": "business_tag_presence__has-tv",
-      "gain": 5.392594337463379
-    },
-    {
-      "feature": "business_tag_presence__takeout",
-      "gain": 4.690369129180908
-    },
-    {
-      "feature": "user_tag_presence__delivery",
-      "gain": 4.622753620147705
-    },
-    {
-      "feature": "business_tag_presence__accessible",
-      "gain": 4.54724645614624
-    },
-    {
-      "feature": "user_dominant_cuisine__American",
-      "gain": 4.286290168762207
+      "gain": 430.41189765930176
     },
     {
       "feature": "business_rating",
-      "gain": 4.174747943878174
+      "gain": 141.11899948120117
+    },
+    {
+      "feature": "business_tag_presence__takeout",
+      "gain": 125.5362908244133
     },
     {
       "feature": "rating_gap_to_user_average",
-      "gain": 4.042773723602295
+      "gain": 109.94725820643362
     },
     {
-      "feature": "user_tag_presence__has-tv",
-      "gain": 3.9327521324157715
-    },
-    {
-      "feature": "business_tag_presence__family-friendly",
-      "gain": 3.65549373626709
-    },
-    {
-      "feature": "business_tag_presence__outdoor-seating",
-      "gain": 3.650407314300537
+      "feature": "business_tag_presence__accessible",
+      "gain": 48.47041940689087
     },
     {
       "feature": "user_reorder_rate",
-      "gain": 2.9892914295196533
+      "gain": 25.696104682981968
     },
     {
-      "feature": "business_price__100-250k",
-      "gain": 2.9393744468688965
+      "feature": "business_tag_presence__landmarks & historical buildings",
+      "gain": 15.952400207519531
     },
     {
-      "feature": "business_cuisine__American",
-      "gain": 2.7438466548919678
+      "feature": "business_tag_presence__has-tv",
+      "gain": 11.441134884953499
     },
     {
-      "feature": "price_match",
-      "gain": 2.7405333518981934
-    },
-    {
-      "feature": "business_tag_presence__event planning & services",
-      "gain": 2.6666505336761475
+      "feature": "business_tag_presence__family-friendly",
+      "gain": 9.272281877696514
     },
     {
       "feature": "cuisine_match",
-      "gain": 2.5988423824310303
+      "gain": 7.29441910982132
     },
     {
-      "feature": "business_tag_presence__hair salons",
-      "gain": 2.5752527713775635
-    },
-    {
-      "feature": "business_tag_presence__shopping",
-      "gain": 2.3180477619171143
-    },
-    {
-      "feature": "business_tag_presence__breakfast & brunch",
-      "gain": 2.2068710327148438
-    },
-    {
-      "feature": "user_history_length",
-      "gain": 2.093226909637451
-    },
-    {
-      "feature": "business_tag_presence__hotels & travel",
-      "gain": 2.0397789478302
-    },
-    {
-      "feature": "business_tag_presence__fitness & instruction",
-      "gain": 2.0261130332946777
-    },
-    {
-      "feature": "user_average_rating",
-      "gain": 1.910105586051941
-    },
-    {
-      "feature": "business_tag_presence__tours",
-      "gain": 1.766461968421936
-    },
-    {
-      "feature": "user_cuisine_diversity",
-      "gain": 1.7459222078323364
-    },
-    {
-      "feature": "user_tag_presence__reservations",
-      "gain": 1.7118510007858276
-    },
-    {
-      "feature": "user_tag_presence__breakfast & brunch",
-      "gain": 1.7046862840652466
-    },
-    {
-      "feature": "business_tag_presence__nightlife",
-      "gain": 1.671720266342163
-    },
-    {
-      "feature": "user_tag_presence__accessible",
-      "gain": 1.6645127534866333
-    },
-    {
-      "feature": "business_tag_presence__beauty & spas",
-      "gain": 1.6164268255233765
-    },
-    {
-      "feature": "business_tag_presence__reservations",
-      "gain": 1.5806713104248047
-    },
-    {
-      "feature": "user_order_frequency_per_week",
-      "gain": 0.911395788192749
-    },
-    {
-      "feature": "user_tag_presence__beauty & spas",
-      "gain": 0.804323673248291
+      "feature": "user_dominant_cuisine__Mexican",
+      "gain": 7.080869913101196
     },
     {
       "feature": "user_avg_basket_size",
+      "gain": 2.2997890561819077
+    },
+    {
+      "feature": "business_tag_presence__fitness & instruction",
+      "gain": 2.2909998893737793
+    },
+    {
+      "feature": "business_tag_presence__home services",
+      "gain": 0.9359599947929382
+    },
+    {
+      "feature": "business_tag_presence__health & medical",
+      "gain": 0.8304269909858704
+    },
+    {
+      "feature": "price_match",
+      "gain": 0.7850734379608184
+    },
+    {
+      "feature": "business_tag_presence__transportation",
+      "gain": 0.7611600160598755
+    },
+    {
+      "feature": "business_tag_presence__bars",
+      "gain": 0.6284930109977722
+    },
+    {
+      "feature": "user_average_rating",
+      "gain": 0.5876470059156418
+    },
+    {
+      "feature": "business_tag_presence__delivery",
+      "gain": 0.21131199598312378
+    },
+    {
+      "feature": "business_tag_presence__outdoor-seating",
+      "gain": 0.12949399650096893
+    },
+    {
+      "feature": "business_price__0-100k",
+      "gain": 0.03952319920063019
+    },
+    {
+      "feature": "user_order_frequency_per_week",
+      "gain": 0.0
+    },
+    {
+      "feature": "user_cuisine_diversity",
+      "gain": 0.0
+    },
+    {
+      "feature": "user_history_length",
       "gain": 0.0
     },
     {
@@ -298,6 +254,10 @@
     },
     {
       "feature": "business_prep_time_minutes",
+      "gain": 0.0
+    },
+    {
+      "feature": "user_dominant_cuisine__American",
       "gain": 0.0
     },
     {
@@ -325,6 +285,10 @@
       "gain": 0.0
     },
     {
+      "feature": "business_cuisine__American",
+      "gain": 0.0
+    },
+    {
       "feature": "business_cuisine__French",
       "gain": 0.0
     },
@@ -337,7 +301,7 @@
       "gain": 0.0
     },
     {
-      "feature": "business_price__0-100k",
+      "feature": "business_price__100-250k",
       "gain": 0.0
     },
     {
@@ -350,6 +314,10 @@
     },
     {
       "feature": "user_tag_presence__bike-parking",
+      "gain": 0.0
+    },
+    {
+      "feature": "user_tag_presence__accessible",
       "gain": 0.0
     },
     {
@@ -370,6 +338,10 @@
     },
     {
       "feature": "user_tag_presence__home services",
+      "gain": 0.0
+    },
+    {
+      "feature": "user_tag_presence__beauty & spas",
       "gain": 0.0
     },
     {
@@ -397,6 +369,10 @@
       "gain": 0.0
     },
     {
+      "feature": "user_tag_presence__has-tv",
+      "gain": 0.0
+    },
+    {
       "feature": "user_tag_presence__nightlife",
       "gain": 0.0
     },
@@ -405,7 +381,15 @@
       "gain": 0.0
     },
     {
+      "feature": "user_tag_presence__breakfast & brunch",
+      "gain": 0.0
+    },
+    {
       "feature": "user_tag_presence__pets",
+      "gain": 0.0
+    },
+    {
+      "feature": "user_tag_presence__delivery",
       "gain": 0.0
     },
     {
@@ -414,6 +398,10 @@
     },
     {
       "feature": "user_tag_presence__home & garden",
+      "gain": 0.0
+    },
+    {
+      "feature": "user_tag_presence__reservations",
       "gain": 0.0
     },
     {
@@ -525,7 +513,15 @@
       "gain": 0.0
     },
     {
-      "feature": "business_tag_presence__home services",
+      "feature": "business_tag_presence__shopping",
+      "gain": 0.0
+    },
+    {
+      "feature": "business_tag_presence__event planning & services",
+      "gain": 0.0
+    },
+    {
+      "feature": "business_tag_presence__beauty & spas",
       "gain": 0.0
     },
     {
@@ -537,7 +533,7 @@
       "gain": 0.0
     },
     {
-      "feature": "business_tag_presence__health & medical",
+      "feature": "business_tag_presence__hotels & travel",
       "gain": 0.0
     },
     {
@@ -545,15 +541,15 @@
       "gain": 0.0
     },
     {
-      "feature": "business_tag_presence__bars",
+      "feature": "business_tag_presence__nightlife",
+      "gain": 0.0
+    },
+    {
+      "feature": "business_tag_presence__breakfast & brunch",
       "gain": 0.0
     },
     {
       "feature": "business_tag_presence__pets",
-      "gain": 0.0
-    },
-    {
-      "feature": "business_tag_presence__delivery",
       "gain": 0.0
     },
     {
@@ -565,19 +561,23 @@
       "gain": 0.0
     },
     {
+      "feature": "business_tag_presence__reservations",
+      "gain": 0.0
+    },
+    {
       "feature": "business_tag_presence__dog-friendly",
       "gain": 0.0
     },
     {
+      "feature": "business_tag_presence__tours",
+      "gain": 0.0
+    },
+    {
+      "feature": "business_tag_presence__hair salons",
+      "gain": 0.0
+    },
+    {
       "feature": "business_tag_presence__art galleries",
-      "gain": 0.0
-    },
-    {
-      "feature": "business_tag_presence__transportation",
-      "gain": 0.0
-    },
-    {
-      "feature": "business_tag_presence__landmarks & historical buildings",
       "gain": 0.0
     },
     {

@@ -10,7 +10,7 @@ import sys
 ROOT_DIR = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT_DIR))
 
-from app.ranking.gbt_ranker import load_business_by_id, score_businesses_with_xgb
+from app.ranking.reranker import load_business_by_id, score_businesses_with_strategy
 from app.ranking.llm_ranker import score_businesses_with_llm
 
 
@@ -102,7 +102,7 @@ def evaluate_ranker(users, business_by_id, labels_by_pair, scorer, sample_size, 
             for candidate in candidates
         ]
         y_score = [
-            score_by_restaurant_id[candidate["id"]]
+            score_by_restaurant_id.get(candidate["id"], 0.0)
             for candidate in candidates
         ]
 
@@ -174,70 +174,104 @@ def main():
     users = load_users()
     labels_by_pair = load_labels()
 
-    xgb_result = evaluate_ranker(
-        users=users,
-        business_by_id=business_by_id,
-        labels_by_pair=labels_by_pair,
-        scorer=score_businesses_with_xgb,
-        sample_size=args.sample_size,
-        seed=args.seed,
-    )
-    llm_result = evaluate_ranker(
-        users=users,
-        business_by_id=business_by_id,
-        labels_by_pair=labels_by_pair,
-        scorer=lambda history, candidates: score_businesses_with_llm(
-            history,
-            candidates,
-            return_metrics=True,
+    strategy_specs = [
+        ("xgboost", lambda history, candidates: score_businesses_with_strategy(history, candidates, strategy="xgboost")),
+        ("lightgbm", lambda history, candidates: score_businesses_with_strategy(history, candidates, strategy="lightgbm")),
+        ("catboost", lambda history, candidates: score_businesses_with_strategy(history, candidates, strategy="catboost")),
+        (
+            "llm",
+            lambda history, candidates: score_businesses_with_llm(
+                history,
+                candidates,
+                return_metrics=True,
+            ),
         ),
-        sample_size=args.sample_size,
-        seed=args.seed,
-    )
-
-    summary_rows = [
-        {
-            "ranker": "xgboost",
-            "ndcg@3": f"{xgb_result['ndcg@3']:.4f}",
-            "ndcg@5": f"{xgb_result['ndcg@5']:.4f}",
-            "ndcg@10": f"{xgb_result['ndcg@10']:.4f}",
-            "users": xgb_result["users"],
-            "sample_size": args.sample_size,
-            "latency_ms": f"{xgb_result['avg_latency_seconds'] * 1000:.2f}",
-        },
-        {
-            "ranker": "llm",
-            "ndcg@3": f"{llm_result['ndcg@3']:.4f}",
-            "ndcg@5": f"{llm_result['ndcg@5']:.4f}",
-            "ndcg@10": f"{llm_result['ndcg@10']:.4f}",
-            "users": llm_result["users"],
-            "sample_size": args.sample_size,
-            "latency_ms": f"{llm_result['avg_latency_seconds'] * 1000:.2f}",
-            "openai_latency_ms": f"{llm_result['avg_openai_latency_seconds'] * 1000:.2f}",
-        },
     ]
 
-    per_user_rows = []
-    for row in xgb_result["per_user_rows"]:
-        llm_row = next(item for item in llm_result["per_user_rows"] if item["user_id"] == row["user_id"])
-        per_user_rows.append(
-            {
-                "user_id": row["user_id"],
-                "xgb_ndcg@3": f"{row['ndcg@3']:.4f}",
-                "llm_ndcg@3": f"{llm_row['ndcg@3']:.4f}",
-                "xgb_ndcg@5": f"{row['ndcg@5']:.4f}",
-                "llm_ndcg@5": f"{llm_row['ndcg@5']:.4f}",
-                "xgb_ndcg@10": f"{row['ndcg@10']:.4f}",
-                "llm_ndcg@10": f"{llm_row['ndcg@10']:.4f}",
-                "xgb_latency_ms": f"{row['latency_seconds'] * 1000:.2f}",
-                "llm_latency_ms": f"{llm_row['latency_seconds'] * 1000:.2f}",
-                "llm_openai_latency_ms": (
-                    f"{llm_row['openai_latency_seconds'] * 1000:.2f}"
-                    if llm_row["openai_latency_seconds"] is not None
+    results_by_strategy = {}
+    for strategy_name, scorer in strategy_specs:
+        try:
+            results_by_strategy[strategy_name] = {
+                "status": "available",
+                "result": evaluate_ranker(
+                    users=users,
+                    business_by_id=business_by_id,
+                    labels_by_pair=labels_by_pair,
+                    scorer=scorer,
+                    sample_size=args.sample_size,
+                    seed=args.seed,
+                ),
+                "error": None,
+            }
+        except (FileNotFoundError, ImportError, RuntimeError) as error:
+            results_by_strategy[strategy_name] = {
+                "status": "unavailable",
+                "result": None,
+                "error": str(error),
+            }
+
+    summary_rows = []
+    for strategy_name, payload in results_by_strategy.items():
+        if payload["status"] == "available":
+            result = payload["result"]
+            summary_row = {
+                "ranker": strategy_name,
+                "status": "available",
+                "ndcg@3": f"{result['ndcg@3']:.4f}",
+                "ndcg@5": f"{result['ndcg@5']:.4f}",
+                "ndcg@10": f"{result['ndcg@10']:.4f}",
+                "users": result["users"],
+                "sample_size": args.sample_size,
+                "latency_ms": f"{result['avg_latency_seconds'] * 1000:.2f}",
+                "openai_latency_ms": (
+                    f"{result['avg_openai_latency_seconds'] * 1000:.2f}"
+                    if strategy_name == "llm"
                     else "-"
                 ),
+                "error": "-",
             }
-        )
+        else:
+            summary_row = {
+                "ranker": strategy_name,
+                "status": "unavailable",
+                "ndcg@3": "-",
+                "ndcg@5": "-",
+                "ndcg@10": "-",
+                "users": len(users),
+                "sample_size": args.sample_size,
+                "latency_ms": "-",
+                "openai_latency_ms": "-",
+                "error": payload["error"],
+            }
+        summary_rows.append(summary_row)
+
+    per_user_rows = []
+    available_results = {
+        name: payload["result"]
+        for name, payload in results_by_strategy.items()
+        if payload["status"] == "available"
+    }
+    if "xgboost" in available_results and "llm" in available_results:
+        for row in available_results["xgboost"]["per_user_rows"]:
+            llm_row = next(item for item in available_results["llm"]["per_user_rows"] if item["user_id"] == row["user_id"])
+            per_user_rows.append(
+                {
+                    "user_id": row["user_id"],
+                    "xgb_ndcg@3": f"{row['ndcg@3']:.4f}",
+                    "llm_ndcg@3": f"{llm_row['ndcg@3']:.4f}",
+                    "xgb_ndcg@5": f"{row['ndcg@5']:.4f}",
+                    "llm_ndcg@5": f"{llm_row['ndcg@5']:.4f}",
+                    "xgb_ndcg@10": f"{row['ndcg@10']:.4f}",
+                    "llm_ndcg@10": f"{llm_row['ndcg@10']:.4f}",
+                    "xgb_latency_ms": f"{row['latency_seconds'] * 1000:.2f}",
+                    "llm_latency_ms": f"{llm_row['latency_seconds'] * 1000:.2f}",
+                    "llm_openai_latency_ms": (
+                        f"{llm_row['openai_latency_seconds'] * 1000:.2f}"
+                        if llm_row["openai_latency_seconds"] is not None
+                        else "-"
+                    ),
+                }
+            )
 
     REPORTS_DIR.mkdir(parents=True, exist_ok=True)
     report = [
@@ -251,6 +285,7 @@ def main():
             summary_rows,
             [
                 "ranker",
+                "status",
                 "ndcg@3",
                 "ndcg@5",
                 "ndcg@10",
@@ -258,24 +293,29 @@ def main():
                 "sample_size",
                 "latency_ms",
                 "openai_latency_ms",
+                "error",
             ],
         ),
         "",
         "## Per User",
-        render_table(
-            per_user_rows,
-            [
-                "user_id",
-                "xgb_ndcg@3",
-                "llm_ndcg@3",
-                "xgb_ndcg@5",
-                "llm_ndcg@5",
-                "xgb_ndcg@10",
-                "llm_ndcg@10",
-                "xgb_latency_ms",
-                "llm_latency_ms",
-                "llm_openai_latency_ms",
-            ],
+        (
+            render_table(
+                per_user_rows,
+                [
+                    "user_id",
+                    "xgb_ndcg@3",
+                    "llm_ndcg@3",
+                    "xgb_ndcg@5",
+                    "llm_ndcg@5",
+                    "xgb_ndcg@10",
+                    "llm_ndcg@10",
+                    "xgb_latency_ms",
+                    "llm_latency_ms",
+                    "llm_openai_latency_ms",
+                ],
+            )
+            if per_user_rows
+            else "No per-user comparison available."
         ),
         "",
     ]
@@ -286,6 +326,7 @@ def main():
             summary_rows,
             [
                 "ranker",
+                "status",
                 "ndcg@3",
                 "ndcg@5",
                 "ndcg@10",
@@ -293,6 +334,7 @@ def main():
                 "sample_size",
                 "latency_ms",
                 "openai_latency_ms",
+                "error",
             ],
         )
     )

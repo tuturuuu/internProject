@@ -1,11 +1,14 @@
 import json
 import random
 from collections import Counter
+from pathlib import Path
 
 # -----------------------------
 # Load restaurant cards
 # -----------------------------
-with open("processed_file.json", "r", encoding="utf-8") as f:
+DATA_FILE = Path(__file__).resolve().parent.parent / "data" / "business.json"
+
+with open(DATA_FILE, "r", encoding="utf-8") as f:
     restaurant_cards = json.load(f)
 
 # -----------------------------
@@ -121,8 +124,10 @@ for user_idx in range(1, NUM_USERS + 1):
 # -----------------------------
 # Export
 # -----------------------------
+OUTPUT_FILE = Path(__file__).resolve().parent.parent / "data" / "user_history.json"
+
 with open(
-    "user_history.json",
+    OUTPUT_FILE,
     "w",
     encoding="utf-8"
 ) as f:

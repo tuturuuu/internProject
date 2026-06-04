@@ -246,6 +246,7 @@ def train_model(train_rows, validation_rows, feature_names, args):
     validation_scores = booster.predict(dvalidation)
     metrics = {
         "ndcg@3": mean_group_ndcg_at_k(validation_labels, validation_scores, validation_group_sizes, k=3),
+        "ndcg@5": mean_group_ndcg_at_k(validation_labels, validation_scores, validation_group_sizes, k=5),
         "ndcg@10": mean_group_ndcg_at_k(validation_labels, validation_scores, validation_group_sizes, k=10),
     }
     metrics["best_iteration"] = int(getattr(booster, "best_iteration", -1))

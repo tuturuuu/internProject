@@ -1,4 +1,5 @@
 import json
+import random
 from collections import Counter
 from pathlib import Path
 
@@ -50,8 +51,9 @@ def build_profile(user_row, business_by_id):
     }
 
 
-def score_restaurant(restaurant, profile):
+def score_restaurant(restaurant, profile, rng=None):
     score = 0.0
+    rng = rng or random
 
     if restaurant["cuisine"] == profile["dominant_cuisine"]:
         score += 3.0
@@ -60,7 +62,7 @@ def score_restaurant(restaurant, profile):
         profile["tag_counts"].get(tag, 0)
         for tag in restaurant["tags"]
     )
-    score += min(3.0, tag_overlap / 2.5)
+    score += min(3.0, tag_overlap / 5)
 
     rating = float(restaurant["rating"])
     if rating >= 4.8:
@@ -71,19 +73,24 @@ def score_restaurant(restaurant, profile):
     if restaurant["price_range"] == profile["dominant_price"]:
         score += 0.5
 
-    return score
+    score += rng.uniform(-0.2, 0.2)
+
+    return max(0.0, score)
 
 
-def recommendation_fraction(user_row):
+def recommendation_fraction(user_row, rng=None):
     behavior_profile = user_row["behavior_profile"]
     reorder_rate = float(behavior_profile["reorder_rate"])
     cuisine_diversity = float(behavior_profile["cuisine_diversity"])
+    rng = rng or random
 
     fraction = 0.12 + (0.18 * reorder_rate) - (0.06 * cuisine_diversity)
+    fraction += rng.uniform(-0.03, 0.03)
     return clamp(fraction, 0.08, 0.30)
 
 
-def rank_candidates(user_row, business_by_id, candidate_ids=None):
+def rank_candidates(user_row, business_by_id, candidate_ids=None, rng=None):
+    rng = rng or random
     profile = build_profile(user_row, business_by_id)
     ranked = []
     history_ids = set(user_row["history"])
@@ -101,7 +108,7 @@ def rank_candidates(user_row, business_by_id, candidate_ids=None):
             {
                 "restaurant_id": restaurant_id,
                 "restaurant": restaurant,
-                "score": score_restaurant(restaurant, profile),
+                "score": score_restaurant(restaurant, profile, rng=rng),
             }
         )
 
@@ -116,7 +123,7 @@ def rank_candidates(user_row, business_by_id, candidate_ids=None):
 
     positive_count = max(
         1,
-        round(len(ranked) * recommendation_fraction(user_row)),
+        round(len(ranked) * recommendation_fraction(user_row, rng=rng)),
     )
 
     positive_ids = {
