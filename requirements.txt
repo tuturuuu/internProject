@@ -13,6 +13,10 @@ openai>=1.0.0
 # Machine learning
 xgboost>=1.7.0
 
+lightgbm
+
+catboost
+
 # Optional / testing
 pytest>=7.0
 
