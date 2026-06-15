@@ -15,23 +15,6 @@ const TOP_MATCH = {
   image: "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1200&h=600&fit=crop",
 };
 
-const [recommended, setRecommended] = useState<any[]>([]);
-const [trending, setTrending] = useState<any[]>([]);
-
-useEffect(() => {
-  async function load() {
-    try {
-      const res = await fetch("http://localhost:8000/api/frontend/home");
-      if (!res.ok) throw new Error("Failed to fetch");
-      const data = await res.json();
-      setTrending(data.trending || []);
-      setRecommended(data.recommended || []);
-    } catch (e) {
-      console.error(e);
-    }
-  }
-  load();
-}, []);
 
 const NEW_FLAVORS = [
   {
@@ -83,6 +66,24 @@ function MatchBadge({ pct, size = "sm" }: { pct: number; size?: "sm" | "lg" }) {
 }
 
 export default function ForYouDesktop() {
+  const [recommended, setRecommended] = useState<any[]>([]);
+  const [trending, setTrending] = useState<any[]>([]);
+
+  useEffect(() => {
+    async function load() {
+      try {
+        const res = await fetch("http://localhost:8000/api/frontend/home");
+        if (!res.ok) throw new Error("Failed to fetch");
+        const data = await res.json();
+        setTrending(data.trending || []);
+        setRecommended(data.recommended || []);
+      } catch (e) {
+        console.error(e);
+      }
+    }
+    load();
+  }, []);
+
   const [activeModel, setActiveModel] = useState<Model>("XGBoost");
   const [k, setK] = useState(10);
   const [refreshing, setRefreshing] = useState(false);
