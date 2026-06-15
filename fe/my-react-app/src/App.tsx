@@ -47,7 +47,7 @@ const initialTrendingRestaurants = [
   },
 ];
 
-const [trendingRestaurants, setTrendingRestaurants] = useState(initialTrendingRestaurants);
+
 
 const initialRecommended = [
   {
@@ -78,21 +78,8 @@ const initialRecommended = [
   },
 ];
 
-const [recommended, setRecommended] = useState(initialRecommended);
 
-useEffect(() => {
-  // Try fetching data from backend; fall back to the initial static data if unavailable
-  fetch('/api/frontend/trending')
-    .then((r) => (r.ok ? r.json() : Promise.reject()))
-    .then((data) => setTrendingRestaurants(data))
-    .catch(() => {});
-
-  fetch('/api/frontend/recommended')
-    .then((r) => (r.ok ? r.json() : Promise.reject()))
-    .then((data) => setRecommended(data))
-    .catch(() => {});
-}, []);
-
+ 
 function StarRating({ rating, max = 5 }: { rating: number; max?: number }) {
   return (
     <div className="flex gap-0.5">
@@ -108,6 +95,22 @@ function StarRating({ rating, max = 5 }: { rating: number; max?: number }) {
 }
 
 export default function TasteSync() {
+  const [trendingRestaurants, setTrendingRestaurants] = useState(initialTrendingRestaurants);
+  const [recommended, setRecommended] = useState(initialRecommended);
+
+  useEffect(() => {
+   // Try fetching data from backend; fall back to the initial static data if unavailable
+   fetch('/api/frontend/trending')
+     .then((r) => (r.ok ? r.json() : Promise.reject()))
+     .then((data) => setTrendingRestaurants(data))
+     .catch(() => {});
+
+   fetch('/api/frontend/recommended')
+     .then((r) => (r.ok ? r.json() : Promise.reject()))
+     .then((data) => setRecommended(data))
+     .catch(() => {});
+  }, []);
+
   const [activeFilter, setActiveFilter] = useState("All");
   const [saved, setSaved] = useState<Set<number>>(new Set());
 
