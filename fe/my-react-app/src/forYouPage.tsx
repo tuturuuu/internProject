@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { RefreshCw, MapPin, Star, Bookmark, Sparkles, Flame, ChevronRight, Zap, Settings2 } from "lucide-react";
 import Navbar from "./components/Navbar";
 
@@ -15,32 +15,23 @@ const TOP_MATCH = {
   image: "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1200&h=600&fit=crop",
 };
 
-const SIMILAR = [
-  {
-    id: "s1",
-    name: "Cuisine Végétale",
-    subtitle: "Elevated Botanical Dining",
-    match: 92,
-    rating: 4.9,
-    image: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&h=500&fit=crop",
-  },
-  {
-    id: "s2",
-    name: "The Gilded Cask",
-    subtitle: "Artisanal Cocktails & Small Plates",
-    match: 86,
-    rating: 4.7,
-    image: "https://images.unsplash.com/photo-1470337458703-46ad1756a187?w=800&h=500&fit=crop",
-  },
-  {
-    id: "s3",
-    name: "Maison Dorée",
-    subtitle: "Classic Parisian Fine Dining",
-    match: 83,
-    rating: 4.8,
-    image: "https://images.unsplash.com/photo-1424847651672-bf20a4b0982b?w=800&h=500&fit=crop",
-  },
-];
+const [recommended, setRecommended] = useState<any[]>([]);
+const [trending, setTrending] = useState<any[]>([]);
+
+useEffect(() => {
+  async function load() {
+    try {
+      const res = await fetch("http://localhost:8000/api/frontend/home");
+      if (!res.ok) throw new Error("Failed to fetch");
+      const data = await res.json();
+      setTrending(data.trending || []);
+      setRecommended(data.recommended || []);
+    } catch (e) {
+      console.error(e);
+    }
+  }
+  load();
+}, []);
 
 const NEW_FLAVORS = [
   {
@@ -228,7 +219,7 @@ export default function ForYouDesktop() {
             </div>
 
             <div className="grid grid-cols-3 gap-4">
-              {SIMILAR.map((r) => (
+              {recommended.map((r) => (
                 <div key={r.id} className="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-shadow">
                   <div className="relative">
                     <img src={r.image} alt={r.name} className="w-full h-40 object-cover" />
@@ -263,7 +254,7 @@ export default function ForYouDesktop() {
             </div>
 
             <div className="grid grid-cols-2 xl:grid-cols-4 gap-4">
-              {NEW_FLAVORS.map((r) => (
+              {trending.map((r) => (
                 <div key={r.id} className="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-shadow flex flex-col">
                   <div className="relative">
                     <img src={r.image} alt={r.name} className="w-full h-36 object-cover" />

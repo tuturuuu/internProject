@@ -84,3 +84,9 @@ async def get_trending():
 async def get_recommended():
     """Return mocked recommended restaurants"""
     return recommended
+
+
+@router.get("/home")
+async def get_home():
+    """Return combined frontend data"""
+    return {"trending": trending, "recommended": recommended}
