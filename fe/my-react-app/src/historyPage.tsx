@@ -1,4 +1,7 @@
 import { useState, useMemo } from "react";
+import { useDispatch, useSelector } from "react-redux";
+import type { RootState, AppDispatch } from "./store";
+import { toggleVisited } from "./store/historySlice";
 import { Search, Star, Check, ChevronRight, ChevronLeft, SlidersHorizontal, X, ChevronDown } from "lucide-react";
 import Navbar from "./components/Navbar";
 
@@ -171,17 +174,16 @@ export default function BenchmarksPage() {
   const [search, setSearch] = useState("");
   const [sort, setSort] = useState("rating_desc");
   const [sortOpen, setSortOpen] = useState(false);
-  const [visited, setVisited] = useState<Set<string>>(new Set(["2", "5"]));
   const [page, setPage] = useState(1);
   const [confirmed, setConfirmed] = useState(false);
   const TARGET = 10;
 
+  const dispatch = useDispatch<AppDispatch>();
+  const visited = useSelector((s: RootState) => s.history.visited);
+  const visitedSet = useMemo(() => new Set(visited), [visited]);
+
   const toggleVisit = (id: string) => {
-    setVisited((prev) => {
-      const next = new Set(prev);
-      next.has(id) ? next.delete(id) : next.add(id);
-      return next;
-    });
+    dispatch(toggleVisited(id));
   };
 
   const filtered = useMemo(() => {
@@ -207,7 +209,7 @@ export default function BenchmarksPage() {
 
   const totalPages = Math.ceil(filtered.length / PAGE_SIZE);
   const paginated = filtered.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE);
-  const progress = Math.min((visited.size / TARGET) * 100, 100);
+  const progress = Math.min((visited.length / TARGET) * 100, 100);
   const sortLabel = SORT_OPTIONS.find((o) => o.value === sort)?.label ?? "Sort";
 
   const handleFilterChange = (f: string) => { setActiveCuisine(f); setPage(1); };
@@ -323,7 +325,7 @@ export default function BenchmarksPage() {
               <RestaurantCard
                 key={r.id}
                 restaurant={r}
-                visited={visited.has(r.id)}
+                visited={visitedSet.has(r.id)}
                 onToggle={() => toggleVisit(r.id)}
               />
             ))}
@@ -371,9 +373,9 @@ export default function BenchmarksPage() {
       </main>
 
       {/* Benchmarks popup — show when ≥2 visited */}
-      {visited.size >= 2 && !confirmed && (
+      {visited.length >= 2 && !confirmed && (
         <BenchmarksPopup
-          visited={visited}
+          visited={visitedSet}
           restaurants={RESTAURANTS}
           onConfirm={() => setConfirmed(true)}
         />
