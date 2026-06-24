@@ -17,6 +17,8 @@ lightgbm
 
 catboost
 
+redis
+
 # Optional / testing
 pytest>=7.0
 

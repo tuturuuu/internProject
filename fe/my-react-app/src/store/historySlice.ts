@@ -1,4 +1,5 @@
-import { createSlice, PayloadAction } from "@reduxjs/toolkit";
+import { createSlice } from "@reduxjs/toolkit";
+import type { PayloadAction } from "@reduxjs/toolkit";
 
 type HistoryState = {
   visited: string[];
@@ -30,8 +31,11 @@ const historySlice = createSlice({
     clearHistory(state) {
       state.visited = [];
     },
+    setVisited(state, action: PayloadAction<string[]>) {
+      state.visited = action.payload;
+    },
   },
 });
 
-export const { addVisited, removeVisited, toggleVisited, clearHistory } = historySlice.actions;
+export const { addVisited, removeVisited, toggleVisited, clearHistory, setVisited } = historySlice.actions;
 export default historySlice.reducer;

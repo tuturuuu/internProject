@@ -1,0 +1,14 @@
+.env
+**/.env
+!fe/my-react-app/.env
+**/node_modules
+**/dist
+
+# Ignore Python cache artifacts
+__pycache__/
+*.pyc
+
+# Ignore Git metadata
+.git
+
+notebook/
